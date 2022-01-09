@@ -1,6 +1,6 @@
 # ViWikiSum Dataset
 4313 Vietnamese clusters for multi-text summaries </br>
-Author team: [Huong Le-Thanh](huonglt@soict.hust.edu.vn), [Tuyen Dam-trong](damtrongtuyen1999@gmail.com), [Hieu Tran-Trung](hieutt99@gmail.com), [Thang Le-Dai](thangld.bkhn@gmail.com)
+Author team: [Huong Le-Thanh](mailto:huonglt@soict.hust.edu.vn), [Tuyen Dam-trong](mailto:damtrongtuyen1999@gmail.com), [Hieu Tran-Trung](mailto:hieutt99@gmail.com), [Thang Le-Dai](mailto:thangld.bkhn@gmail.com)
 
 **Data construction process**
 
@@ -17,7 +17,7 @@ This repo is the prototype of the ViWikiSum dataset we built. The full dataset a
 
 # Bộ dữ liệu ViWikiSum
 4313 cụm văn bản Tiếng Việt cho tóm tắt đa văn bản </br>
-Nhóm tác giả: [Huong Le-Thanh](huonglt@soict.hust.edu.vn), [Tuyen Dam-Trong](damtrongtuyen1999@gmail.com), [Hieu Tran-Trung](hieutt99@gmail.com), [Thang Le-Dai](thangld.bkhn@gmail.com) 
+Nhóm tác giả: [Huong Le-Thanh](mailto:huonglt@soict.hust.edu.vn), [Tuyen Dam-Trong](mailto:damtrongtuyen1999@gmail.com), [Hieu Tran-Trung](mailto:hieutt99@gmail.com), [Thang Le-Dai](mailto:thangld.bkhn@gmail.com) 
 
 **Quá trình xây dựng dữ liệu**
 
