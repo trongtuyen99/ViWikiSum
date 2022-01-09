@@ -1,0 +1,4 @@
+keyword: Hệ số tương quan
+url: https://vi.wikipedia.org/wiki/H%E1%BB%87_s%E1%BB%91_t%C6%B0%C6%A1ng_quan
+content:
+Hệ số tương quan là một chỉ số đo lường của một số loại tương quan, nghĩa là mối liên hệ thống kê giữa hai biến số. Các biến có thể là hai cột của một bộ dữ liệu quan sát đã cho, thường được gọi là mẫu hoặc hai phần của một biến ngẫu nhiên đa biến số có phân phối đã biết trước. Có một số loại hệ số tương quan, mỗi loại lại có định nghĩa riêng, phạm vi sử dụng và đặc tính riêng. Tất cả đều giả định các giá trị nằm trong phạm vi chạy từ −1 đến +1, trong đó ± 1 biểu thị hai biến số có mối tương quan tuyệt đối có thể và 0 chỉ hai biến số không có liên hệ gì với nhau. Là công cụ phân tích, các hệ số tương quan thể hiện một số vấn đề nhất định, bao gồm khuynh hướng của một số loại yếu tố nhiễu bởi ngoại lai và khả năng được sử dụng tương đối để suy ra mối quan hệ nhân quả giữa các biến số.

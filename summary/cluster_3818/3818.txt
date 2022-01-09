@@ -1,0 +1,4 @@
+keyword: Hệ thống thông tin quản lý
+url: https://vi.wikipedia.org/wiki/H%E1%BB%87_th%E1%BB%91ng_th%C3%B4ng_tin_qu%E1%BA%A3n_l%C3%BD
+content:
+Hệ thống thông tin quản lý là hệ thống cung cấp thông tin cho công tác quản lý của tổ chức. Hệ thống bao gồm con người, thiết bị và quy trình thu thập, phân tích, đánh giá và phân phối những thông tin cần thiết, kịp thời, chính xác cho những người soạn thảo các quyết định trong tổ chức. Đây cũng là tên gọi của một chuyên ngành khoa học. Ngành khoa học này thường được xem là một phân ngành của khoa học quản lý và quản trị kinh doanh. Ngoài ra, do ngày nay việc xử lý dữ liệu thành thông tin và quản lý thông tin liên quan đến công nghệ thông tin, nó cũng được coi là một phân ngành trong toán học, nghiên cứu việc tích hợp hệ thống máy tính vào mục đích tổ chức.

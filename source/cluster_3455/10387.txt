@@ -1,0 +1,4 @@
+keyword: Bảng cửu chương
+url: https://drkhoe.vn/bang-cuu-chuong/
+content:
+Bảng cửu chương là bảng phép nhân của các số từ 1 đến n, với n thường là 9 hay là 12 mà học sinh bắt buộc phải học thuộc ở cấp bậc tiểu học. Bảng cửu chương giúp việc tính nhẩm nhanh các bài toán nhân đơn giản, cũng như có thể tính toán (không cần máy tính trợ giúp) các phép nhân phức tạp. Đa phần các bài hát đều có phần lời đơn giản gần gũi, do vậy trẻ sẽ dễ dàng tiếp thu hơn và nhớ lâu hơn. Quý phụ huynh có thể sử dụng các bài hát sau:. Bảng tính Pythagoras được người Mỹ phát minh và sử dụng đến ngày nay. Ưu điểm của bảng tính Pythagoras không chứa các kí tự toán học không cần thiết, rõ ràng cho người học. Mẹo học rất đơn giản chỉ cần chọn số hàng ngang và chọn số hàng dọc, điểm giao hai con số là kết quả của phép nhân.

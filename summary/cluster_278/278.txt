@@ -1,0 +1,4 @@
+keyword: Tín hiệu analog
+url: https://vi.wikipedia.org/wiki/T%C3%ADn_hi%E1%BB%87u_analog
+content:
+Tín hiệu analog hay tín hiệu tương tự là bất kỳ tín hiệu liên tục nào có tính năng thay đổi thời gian (biến) của tín hiệu là đại diện cho một số lượng thay đổi thời gian khác, nghĩa là tương tự với tín hiệu thay đổi thời gian khác. Ví dụ, trong tín hiệu âm thanh analog, điện áp tức thời của tín hiệu thay đổi liên tục theo áp suất của sóng âm. Nó khác với tín hiệu số, trong đó đại lượng liên tục là biểu diễn của một chuỗi các giá trị rời rạc, chỉ có thể đảm nhận một trong số các giá trị hữu hạn. Thuật ngữ tín hiệu tương tự thường đề cập đến tín hiệu điện tử; tuy nhiên, cơ khí, khí nén, thủy lực, lời nói của con người và các hệ thống khác cũng có thể truyền tải hoặc được coi là tín hiệu tương tự.

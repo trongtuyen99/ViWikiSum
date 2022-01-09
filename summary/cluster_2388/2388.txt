@@ -1,0 +1,4 @@
+keyword: Định lý kẹp
+url: https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Bnh_l%C3%BD_k%E1%BA%B9p
+content:
+Trong Giải tích, Định lý kẹp là một định lý liên quan đến giới hạn của hàm số. Định lý kẹp là một công cụ mang tính kĩ thuật thường dùng trong các phép chứng minh của giải tích. Ứng dụng đặc thù của định lý này là để tìm giới hạn của một hàm số bằng cách so sánh nó với hai hàm số khác có giới hạn đã biết hoặc dễ tính. Nó được dùng đầu tiên trong hình học bởi các nhà toán học Archimedes và Eudoxus khi các ông tìm cách tính số π, và được Gauss chính xác hóa dưới dạng ký hiệu như ngày nay.

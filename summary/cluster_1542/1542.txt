@@ -1,0 +1,4 @@
+keyword: Các kiểu bộ nhớ
+url: https://vi.wikipedia.org/wiki/C%C3%A1c_ki%E1%BB%83u_b%E1%BB%99_nh%E1%BB%9B
+content:
+Hầu hết máy tính được xây dựng sử dụng mô hình Von Neumann, với trung tâm là bộ nhớ. Chương trình thực thi quá trình được lưu trong bộ nhớ. Chúng ta biết bộ nhớ là cấu trúc logic như 1 dãy các điểm, với địa chỉ từ 0 đến tối đa kích thước bộ nhớ mà vi xử lý có thể đánh địa chỉ. Trong phần này chúng ta sẽ xem xét các loại bộ nhớ khác nhau và cách mà mỗi cái là một phần của hệ thống phân cấp bộ nhớ. Sau đó chúng ta sẽ xem xét một bộ nhớ đệm nhanh (1 bộ nhớ đặc biệt tốc độ cao) và phương thức tận dụng bộ nhớ tối đa của các bộ nhớ ảo thực thi thông qua phân trang. Tại sao lại có nhiều loại bộ nhớ khác nhau như vậy? Đó là bởi vì công nghệ liên tục phát triển để cố gắng bắt kịp với các cải tiến trong thiết kế CPU – tốc độ của bộ nhớ phải theo kịp CPU hoặc bộ nhớ trở thành nút cổ chai. Trong những năm gần đây, chúng ta đã nhìn thấy rất nhiều cải tiến trong CPU.

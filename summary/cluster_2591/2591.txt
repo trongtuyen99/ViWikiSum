@@ -1,0 +1,4 @@
+keyword: In màu
+url: https://vi.wikipedia.org/wiki/In_m%C3%A0u
+content:
+In màu là một kiểu in ấn tạo ra hình ảnh và chữ có màu sắc (đối lập với in đen trắng). Kỹ thuật phổ biến là in bốn màu sử dụng hệ màu CMYK. Một kỹ thuật đang phát triển khác là in sáu màu, thêm màu gốc da cam và xanh lá cây vào hệ CMYK để tạo phổ màu rộng hơn. Các bước chính trong in bốn màu được miêu tả sau đây.

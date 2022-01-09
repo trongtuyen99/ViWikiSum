@@ -1,0 +1,4 @@
+keyword: Giấy in nhiệt
+url: https://vi.wikipedia.org/wiki/Gi%E1%BA%A5y_in_nhi%E1%BB%87t
+content:
+Giấy in nhiệt (hay còn gọi là giấy in chuyển nhiệt, giấy nhạy nhiệt, giấy cảm nhiệt, giấy thuốc, giấy in hóa đơn) là một loại giấy mịn đặc biệt được phủ một chất liệu có công thức cụ thể để thay đổi màu sắc khi tiếp xúc với nhiệt. Nó được sử dụng trong các máy in nhiệt và đặc biệt trong các thiết bị chuyên dụng như máy tính cơ học, máy tính tiền và máy POS (máy đọc thẻ ATM). Bề mặt của giấy được phủ một hỗn hợp thuốc nhuộm dạng rắn và khuôn đúc chữ (đầu tạo nhiệt, đầu in,.) thích hợp. Khi khuôn đúc chữ được nung nóng trên nhiệt độ mốc của nó, thuốc nhuộm sẽ phản ứng với axit, chuyển sang dạng màu và hình dạng được thay đổi đó được bảo toàn ở trạng thái siêu bền khi khuôn đúc chữ đông cứng lại nhanh chóng. Axit phản ứng trong giấy nhiệt thường là bisphenol A (BPA).

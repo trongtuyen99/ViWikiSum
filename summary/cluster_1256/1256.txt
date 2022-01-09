@@ -1,0 +1,4 @@
+keyword: Chấn lưu
+url: https://vi.wikipedia.org/wiki/Ch%E1%BA%A5n_l%C6%B0u
+content:
+Chấn lưu hay còn gọi là tăng phô, là một thiết bị điện dùng để giới hạn dòng điện chạy trong mạch điện. Một trong những ứng dụng phổ biến nhất của chấn lưu là trong đèn huỳnh quang, dùng để giới hạn dòng điện không quá cao đến mức có thể làm hỏng bóng đèn. Chấn lưu có hai loại là chấn lưu điện cảm và chấn lưu điện tử.

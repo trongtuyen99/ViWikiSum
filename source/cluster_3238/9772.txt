@@ -1,0 +1,4 @@
+keyword: Ngôn ngữ mô hình hóa thống nhất
+url: https://giamcanherbalthin.com/uml-la-gi/
+content:
+Ngôn ngữ mô hình hóa thống nhất (giờ Anh: Unified Modeling Language, viết tắt thành UML) là một trong những ngôn ngữ quy mô bao gồm những ký kết hiệu đồ họa mà lại các cách thức hướng đối tượng thực hiện để xây dựng các khối hệ thống ban bố một phương pháp mau lẹ. UML sử dụng một khối hệ thống ký kết hiệu thống nhất biểu diễn những Phần tử mô hình (Mã Sản Phẩm elements). Tập hòa hợp các phần tử mô hình tạo thành các Sơ thứ UML (UML diagrams). Có những các loại sơ đồ dùng UML đa số sau:

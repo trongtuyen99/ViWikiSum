@@ -1,0 +1,4 @@
+keyword: Điện một chiều
+url: https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_m%E1%BB%99t_chi%E1%BB%81u
+content:
+Khái niệm Một chiều trong kỹ thuật điện là để nói đến dòng chuyển dời đồng hướng của các hạt mang điện trong môi trường dẫn điện, như dây dẫn. Điện một chiều thường được viết tắt là 1C (một chiều) hay DC (theo viết tắt tiếng Anh: "Direct Current"). Dòng điện một chiều được tạo ra năm 1800 từ pin Volta của nhà vật lý học người Ý Alessandro Volta. Bản chất của việc dòng điện di chuyển đã không được tìm ra. Nhà vật lý học người Pháp André-Marie Ampère phỏng đoán rằng dòng điện đi theo một hướng từ dương tới âm. Khi nhà chế tạo dụng cụ người Pháp Hippolyte Pixii xây máy phát điện một chiều đầu tiên năm 1832, ông phát hiện ra rằng khi nam châm được sử dụng đi qua các vòng dây mỗi nửa vòng, nó đã đảo chiều dòng điện, tạo ra Điện xoay chiều. Từ gợi ý của Ampère, Pixii sau đó đã thêm bộ phận chuyển mạch để tạo ra dòng điện một chiều.

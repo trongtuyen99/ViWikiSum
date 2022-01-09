@@ -1,0 +1,4 @@
+keyword: Trung tâm thanh toán bù trừ
+url: https://vi.wikipedia.org/wiki/Trung_t%C3%A2m_thanh_to%C3%A1n_b%C3%B9_tr%E1%BB%AB
+content:
+Trung tâm thanh toán bù trừ hoạt động như một trung gian giữa người mua và người bán nhằm đảm bảo thực hiện giao dịch trơn tru từ lúc bắt đầu đến khi kết thúc. Sau khi thỏa thuận ràng buộc về mặt pháp lý (nghĩa là thực hiện) giao dịch giữa người mua và người bán, vai trò của công ty thanh toán bù trừ là tập trung hóa và chuẩn hóa tất cả các bước dẫn đến thanh toán (tức là giải quyết) giao dịch. Mục đích là để giảm chi phí, rủi ro thanh toán và rủi ro hoạt động của việc thanh toán bù trừ nhiều giao dịch giữa nhiều bên. Ngoài các dịch vụ trên, thanh toán bù trừ đối tác trung tâm (CCP) chịu rủi ro đối tác bằng cách xen vào giữa người mua và người bán ban đầu của một hợp đồng tài chính, chẳng hạn như một hợp đồng phái sinh.

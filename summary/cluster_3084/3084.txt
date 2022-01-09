@@ -1,0 +1,4 @@
+keyword: Steam (phần mềm)
+url: https://vi.wikipedia.org/wiki/Steam_(ph%E1%BA%A7n_m%E1%BB%81m)
+content:
+Steam là một nền tảng phân phối trực tuyến, quản lý bản quyền kỹ thuật số, trò chơi điện tử nhiều người chơi, và dịch vụ giao tiếp xã hội trên nền internet phát triển bởi Valve Corporation. Steam cung cấp cho người dùng khả năng cài đặt và tự động cập nhật các trò chơi trên nhiều máy tính khác nhau, và các tính năng cộng đồng như là danh sách bạn bè và hội nhóm, lưu trữ đám mây, và chức năng trò chuyện và đàm thoại trong lúc chơi trò chơi. Phần mềm này cung cấp sẵn một giao diện lập trình ứng dụng (API) miễn phí gọi là Steamworks, với nó các nhà phát triển có thể sử dụng để tích hợp nhiều chức năng của Steam vào sản phẩm của họ, bao gồm giao tiếp xã hội và bắt cặp ván đấu, thành tích trong trò chơi, giao dịch mua bán, và các hỗ trợ cho các nội dung do người dùng tạo ra thông qua Steam Workshop.

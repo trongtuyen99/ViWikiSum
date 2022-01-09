@@ -1,0 +1,4 @@
+keyword: Hệ thống quản lý kho
+url: https://vi.wikipedia.org/wiki/H%E1%BB%87_th%E1%BB%91ng_qu%E1%BA%A3n_l%C3%BD_kho
+content:
+Hệ thống quản lý kho (tiếng Anh: Warehouse Management System - WMS) là một phần mềm ứng dụng được thiết kế để hỗ trợ việc quản lý kho hàng của doanh nghiệp nhằm thực hiện các chức năng kiểm soát và theo dõi các chuyển giao và lưu trữ các nguồn lực sẵn có. Hệ thống quản lý kho (WMS) ra đời nhằm hỗ trợ doanh nghiệp có được cái nhìn tổng quát về tình hình và hoạt động của kho hàng trong thời gian thực (real-time: một thuật ngữ rất quan trọng trong công tác quản lý); kiểm soát nhân viên kho; hỗ trợ việc lập kế hoạch hàng ngày cho nhà quản trị. Hệ thống quản lý kho giúp đảm bảo tính thống nhất cao giữa các bộ phận liên quan, đáp ứng nhu cầu quản lý, tối ưu hóa việc lưu kho, hạn chế tối đa tình trạng thất thoát trong quá trình xuất nhập kho.

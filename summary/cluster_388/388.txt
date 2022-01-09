@@ -1,0 +1,4 @@
+keyword: Chuỗi thời gian
+url: https://vi.wikipedia.org/wiki/Chu%E1%BB%97i_th%E1%BB%9Di_gian
+content:
+Chuỗi thời gian (tiếng Anh: time series) trong thống kê, xử lý tín hiệu, kinh tế lượng và toán tài chính là một chuỗi các điểm dữ liệu, được đo theo từng khoảng khắc thời gian liền nhau theo một tần suất thời gian thống nhất. Ví dụ về chuỗi thời gian là giá đóng cửa của chỉ số Dow Jones hoặc lưu lượng hàng năm của sông Nin tại Aswan. Phân tích chuỗi thời gian bao gồm các phương pháp để phân tích dữ liệu chuỗi thời gian, để từ đó trích xuất ra được các thuộc tính thống kê có ý nghĩa và các đặc điểm của dữ liệu. Dự đoán chuỗi thời gian là việc sử dụng mô hình để dự đoán các sự kiện thời gian dựa vào các sự kiện đã biết trong quá khứ để từ đó dự đoán các điểm dữ liệu trước khi nó xảy ra (hoặc được đo). Chuỗi thời gian thường được vẽ theo các đồ thị.

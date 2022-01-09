@@ -1,0 +1,4 @@
+keyword: Dao động
+url: https://vi.wikipedia.org/wiki/Dao_%C4%91%E1%BB%99ng
+content:
+Dao động là sự lặp đi lặp lại nhiều lần một trạng thái của một vật nào đó. Trong cơ học, dao động là chuyển động có giới hạn trong không gian, lặp đi lặp lại nhiều lần quanh vị trí cân bằng. Một ví dụ về dao động cơ học là con lắc đồng hồ. Vị trí cân bằng trong ví dụ này là khi con lắc đứng im không chạy. Một dao động được nghiên cứu nhiều trong cơ học là dao động tuần hoàn, tức là dao động lặp đi lặp lại như cũ quanh vị trí cân bằng sau những khoảng thời gian bằng nhau. Khoảng thời gian ngắn nhất mà vật lặp lại vị trí cũ được gọi là chu kì của dao động. Mọi dao động tuần hoàn đều có thể được biểu diễn thành chuỗi Fourier của các dao động điều hoà có tần số cơ bản khác nhau.

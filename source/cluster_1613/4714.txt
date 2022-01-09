@@ -1,0 +1,4 @@
+keyword: Hệ thống hài hòa toàn cầu về phân loại và ghi nhãn hóa chất
+url: https://outdoorindustry.org/chemical-manuals/1/vi/topic/globally-harmonized-system-ghs
+content:
+Hệ thống Hài hòa Toàn cầu về Phân loại và Ghi Nhãn Hóa Chất (GHS) là một hệ thống được thống nhất toàn cầu về phân loại và ghi nhãn hóa chất. GHS đã được Liên hợp quốc phát triển để thay thế các bộ tiêu chuẩn phân loại và tạo nhãn riêng được sử dụng ở các quốc gia khác nhau bằng một bộ tiêu chuẩn duy nhất, chuẩn hóa để phân loại và tạo nhãn hóa chất trên phạm vi toàn cầu. Phân loại các chất và hợp chất hóa học dựa trên tính nguy hại vật lý, môi trường và sức khỏe của chúng. Nguyên tắc tuyên truyền về mối nguy hại, bao gồm Yêu cầu Ghi nhãn và nội dung và định dạng của Bảng Dữ liệu An toàn – SDS. *Quý vị có thể sử dụng liên kết dưới đây để tìm kiếm trang web triển khai GHS của LHQ để biết thêm thông tin về tình trạng triển khai GHS cũng như các quy định hiện hành tại quốc gia của quý vị.

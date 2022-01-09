@@ -1,0 +1,4 @@
+keyword: Số nguyên
+url: https://vi.wikipedia.org/wiki/S%E1%BB%91_nguy%C3%AAn
+content:
+Trong toán học, số nguyên được định nghĩa một cách thông dụng là một số có thể được viết mà không có thành phần phân số. Ví dụ: 21, 4, 0 và −2048 là các số nguyên, trong khi 9,75,5 1/2 và √2 không phải là số nguyên. Tập hợp các số nguyên bao gồm 0, các số tự nhiên dương (1, 2, 3,. ), còn được gọi là số đếm, và các nghịch đảo phép cộng của chúng (là các số nguyên âm, tức là, −1, −2, −3, .). với chữ cái "Z" bắt nguồn từ tiếng Đức Zahlen (nghĩa là "số"). Các số nguyên tạo thành nhóm nhỏ nhất và vành nhỏ nhất chứa các số tự nhiên. Trong lý thuyết số đại số, các số nguyên đôi khi được coi là số nguyên hữu tỉ để phân biệt chúng với các số nguyên đại số tổng quát hơn. Trên thực tế, số nguyên (hữu tỉ) là số nguyên đại số mà cũng là số hữu tỉ.

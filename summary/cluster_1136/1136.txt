@@ -1,0 +1,4 @@
+keyword: Tần số âm thanh
+url: https://vi.wikipedia.org/wiki/T%E1%BA%A7n_s%E1%BB%91_%C3%A2m_thanh
+content:
+Tần số âm thanh (viết tắt: AF) hoặc tần số nghe được được đặc trưng là rung động tuần hoàn có tần số nghe được với người thường. Đơn vị SI của tần số âm thanh là hertz (Hz). Đây là tính chất của âm thanh mà chủ yếu quyết định cao độ. Quãng tần số nghe được tiêu chuẩn thường được chấp nhận là 20 đến 20,000 Hz, mặc dù quãng tần số mỗi người nghe được bị ảnh hưởng lớn bởi các yếu tố môi trường. Tần số dưới 20 Hz thường có thể được cảm thấy thay vì nghe thấy, cho là biên độ của rung động đủ lớn. Tần số trên 20.000 Hz đôi khi có thể được cảm thấy bởi người trẻ. Tần số cao là loại đầu tiên bị ảnh hưởng bởi khiếm thính do tuổi già và/hoặc phơi nhiễm tiếng ồn lớn lâu dài.

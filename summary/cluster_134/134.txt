@@ -1,0 +1,4 @@
+keyword: Bản vẽ kỹ thuật
+url: https://vi.wikipedia.org/wiki/B%E1%BA%A3n_v%E1%BA%BD_k%E1%BB%B9_thu%E1%BA%ADt
+content:
+Bản vẽ kỹ thuật là tác phẩm của ngành vẽ kỹ thuật, ngôn ngữ phổ biến để họa viên, nhà thiết kế và kỹ sư mô tả hình dáng, kích thước, vật liệu, đặc tính kỹ thuật. các vật thể, chi tiết, các kết cấu (Hay ngắn gọn là để chế tạo ra sản phẩm đúng với thiết kế). Bản vẽ kỹ thuật truyền thống thường được biểu diễn dạng 2D. Hiện nay với sự phát triển của khoa học công nghệ cho ra đời các bản vẽ ở dạng 3D có khả năng mô tả vật thể trực quan hơn. Bản vẽ kỹ thuật là phương tiện giao tiếp (thiết kế, thi công, sử dụng sản phẩm) trong kỹ thuật, nó bao gồm các hình biểu diễn (hình chiếu, hình cắt. ), các số liệu ghi kích thước, các yêu cầu kỹ thuật., nó được vẽ theo một quy tắc thống nhất (iso) nhằm thể hiện hình dạng, kết cấu, độ lớn. của vật thể. Ngoài ra có thể nói bản vẽ kỹ thuật là một loại tài sản trí tuệ, được đăng ký bản quyền, được mua, bán trao đổi.

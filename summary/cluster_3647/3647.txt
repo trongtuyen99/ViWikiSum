@@ -1,0 +1,4 @@
+keyword: Số hữu tỉ
+url: https://vi.wikipedia.org/wiki/S%E1%BB%91_h%E1%BB%AFu_t%E1%BB%89
+content:
+Tên Q của tập hợp này được Giuseppe Peano sử dụng lần đầu tiên như là chữ viết tắt của quoziente, nghĩa là tỷ lệ, và xuất hiện lần đầu trong cuốn sách Algèbre của Bourbaki. Khai triển thập phân của một số hữu tỉ kết thúc sau một số hữu hạn chữ số (ví dụ: 3/4 = 0.75 hoặc thậm chí bắt đầu lặp lại một số hữu hạn cùng dãy các chữ số lặp đi lặp lại (ví dụ: 9/44 = 0.20454545.). Ngược lại, bất kỳ số thập phân lặp lại tuần hoàn hoặc kết thúc sau hữu hạn chữ số đều đại diện cho một số hữu tỉ. Các phát biểu này đúng trong cơ số 10 và trong mọi cơ số nguyên khác (ví dụ: nhị phân hoặc thập lục phân). Một số thực không phải là số hữu tỉ được gọi là số vô tỉ. Số vô tỉ bao gồm √2, π, e và φ. Khai triển thập phân của một số vô tỉ kéo dài mãi mà không lặp lại. Vì tập hợp các số hữu tỉ là đếm được và tập hợp các số thực là không đếm được nên hầu như tất cả các số thực đều là số vô tỉ.

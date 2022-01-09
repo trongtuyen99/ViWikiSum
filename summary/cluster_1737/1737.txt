@@ -1,0 +1,4 @@
+keyword: Áp suất
+url: https://vi.wikipedia.org/wiki/%C3%81p_su%E1%BA%A5t
+content:
+Trong vật lý học, áp suất (tiếng Anh: Pressure) (thường được viết tắt là p) là một đại lượng vật lý, được định nghĩa là lực trên một đơn vị diện tích tác dụng theo chiều vuông góc với bề mặt của vật thể. Trong hệ SI, đơn vị của áp suất bằng Newton trên mét vuông (N/m2), nó được gọi là Pascal (Pa) mang tên nhà toán học và vật lý người Pháp Blaise Pascal thế kỉ thứ 17. Áp suất 1 Pa là rất nhỏ, nó xấp xỉ bằng áp suất của một đồng đô la tác dụng lên mặt bàn. Thường áp suất được đo với tỉ lệ bắt đầu bằng 1kPa = 1000Pa. p = F / STrong đó: p là áp suất, F là áp lực tác dụng lên mặt bị ép có diện tích tiếp xúc là S.

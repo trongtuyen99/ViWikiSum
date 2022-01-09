@@ -1,0 +1,4 @@
+keyword: Tiền mã hóa
+url: https://vietnambiz.vn/tien-ma-hoa-cryptocurrency-la-gi-loi-ich-va-han-che-cua-tien-ma-hoa-20190912100643343.htm
+content:
+Tiền mã hoá là một loại tiền kĩ thuật số sử dụng mật mã để bảo mật. Tiền mã hoá rất khó bị làm giả vì tính năng bảo mật này. Nhiều loại tiền mã hoá là các hệ thống phi tập trung dựa trên công nghệ blockchain, một sổ cái được phân tán và chia sẻ bằng mạng lưới gồm nhiều máy tính khác nhau. Do tiền mã hoã không có lưu trữ trung tâm, số dư tiền mã hoá có thể bị mất sạch nếu như một người không may quên mất khoá riêng của mình. Tính bán ẩn danh của các giao dịch tiền mã hoá làm cho chúng được sử dụng trong hoạt động bất chính như rửa tiền và trốn thuế. Nhiều loại tiền mã hoá coi trọng đến tính riêng tư như Dash, ZCash hoặc Monero, khiến chúng rất khó để truy tìm dấu vết các giao dịch. Ngoài ra, mối lo ngại lớn là giá trị của tiền mã hoá không được đảm bảo bởi bất kì hàng hóa vật chất nào.

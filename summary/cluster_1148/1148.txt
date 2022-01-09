@@ -1,0 +1,4 @@
+keyword: Máy quét mã vạch
+url: https://vi.wikipedia.org/wiki/M%C3%A1y_qu%C3%A9t_m%C3%A3_v%E1%BA%A1ch
+content:
+Một máy quét mã vạch là một máy thu nhận hình ảnh của mã vạch in trên các bề mặt và chuyển thông tin chứa trong mã vạch đến máy tính hay các thiết bị cần thông tin này. Nó thường có một nguồn sáng kèm theo thấu kính, để hội tụ ánh sáng lên mã vạch, rồi thu ánh sáng phản xạ về một cảm quang chuyển hóa tín hiệu ánh sáng thành tín hiệu điện. Ngoài ra, nhiều máy quét mã vạch còn có thêm mạch điện tử xử lý tín hiệu thu được từ cảm quang để chuyển thành tín hiệu phù hợp cho kết nối với máy tính. Công nghệ Laser: Phát ra chùm tia Laser, quét lên bề mặt mã vạch, ưu điểm là tốc độ quét nhanh. Công nghệ CCD: Áp dụng công nghệ chụp hình. Ưu điểm là đọc được các mã vạch có bề mặt gồ ghề.

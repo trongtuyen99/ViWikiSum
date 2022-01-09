@@ -1,0 +1,4 @@
+keyword: Biến phụ thuộc và biến độc lập
+url: https://vi.wikipedia.org/wiki/Bi%E1%BA%BFn_ph%E1%BB%A5_thu%E1%BB%99c_v%C3%A0_bi%E1%BA%BFn_%C4%91%E1%BB%99c_l%E1%BA%ADp
+content:
+Trong mô hình toán học, mô hình thống kê và khoa học thực nghiệm, các giá trị của các biến phụ thuộc phụ thuộc vào các giá trị của các biến độc lập. Các biến phụ thuộc đại diện cho đầu ra hoặc kết quả cho sự thay đổi đang được nghiên cứu. Các biến độc lập, còn được biết đến trong văn cảnh thống kê là biến hồi quy, đại diện cho đầu vào hoặc nguyên nhân, đó là lý do tại sao cho sự thay đổi. Trong một cuộc thử nghiệm, bất kỳ biến nào mà người thử nghiệm thao tác cũng có thể được coi là một biến độc lập. Các mô hình và thử nghiệm được tiến hành để kiểm tra những tác động của các biến độc lập lên các biến phụ thuộc. Đôi khi, ngay cả ảnh hưởng của chúng không mang lại lợi ích trực tiếp, các biến độc lập vẫn có thể được đưa vào vì những lý do khác nhau, như để giải thích cho hiệu ứng gây nhiễu tiềm ẩn.

@@ -1,0 +1,4 @@
+keyword: Chuyển đổi kiểu
+url: https://cppdeveloper.com/c-co-ban/4-2-1-chuyen-doi-kieu-du-lieu-la-gi/
+content:
+Chuyển đổi kiểu dữ liệu là hành động thay đổi đặc tính của dữ liệu mà không (nếu có thể) thay đổi giá trị của nó. Một trong những ví dụ đơn giản nhất của chuyển đổi kiểu dữ liệu là thay đổi kiểu của dữ liệu. Hãy xem đoạn mã bên sau đây →. Ký hiệu giá trị 1 kiểu int được chuyển đổi sang dữ liệu có cùng giá trị nhưng kiểu long. Điều này có nghĩa là biểu diễn nội bộ bên trong dữ liệu có thể thay đổi (trong trường hợp cụ thể này, số bit được sử dụng để lưu trữ giá trị có thể tăng lên) nhưng bản thân giá trị vẫn không bị ảnh hưởng. Hậu tố ‘L’ (hoặc ‘l’ cũng được) nói rằng chữ số đó có kiểu long.

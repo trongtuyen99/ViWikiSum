@@ -1,0 +1,4 @@
+keyword: Electron hóa trị
+url: https://vi.wikipedia.org/wiki/Electron_h%C3%B3a_tr%E1%BB%8B
+content:
+Electron hóa trị hay electron ngoài cùng là những electron ở các orbital ngoài cùng và có thể tham gia vào các liên kết của nguyên tử. Electron hóa trị các nguyên tố nhóm chính nằm ở lớp ngoài cùng, trong nguyên tố nhóm phụ (kim loại chuyển tiếp) electron hóa trị có tại lớp ngoài cùng và lớp d kế cận. Các electron hóa trị có thể hay không tham gia vào liên kết của nguyên tử, phụ thuộc vào trạng thái hóa học của nguyên tử, khi tham gia chúng được gọi là electron liên kết. Ví dụ, clo trong HCl có 1 electron hóa trị tham gia liên kết, nhưng ở HClO4 có 7 electron liên kết.

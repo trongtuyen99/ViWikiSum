@@ -1,0 +1,4 @@
+keyword: Ma trận hiệp phương sai
+url: https://vi.wikipedia.org/wiki/Ma_tr%E1%BA%ADn_hi%E1%BB%87p_ph%C6%B0%C6%A1ng_sai
+content:
+Ma trận hiệp phương sai của tập hợp m biến ngẫu nhiên là một ma trận vuông hạng (m × m), trong đó các phần tử nằm trên đường chéo (từ trái sang phải, từ trên xuống dưới) lần lượt là phương sai tương ứng của các biến này (ta chú ý rằng Var(X) = Cov(X,X)), trong khi các phần tử còn lại (không nằm trên đường chéo) là các hiệp phương sai của đôi một hai biến ngẫu nhiên khác nhau trong tập hợp. Ký hiệu X là một vector cột, Xi là các thành phần của vector này. là giá trị kỳ vọng của thành phần thứ i của vector X. Ma trận hiệp phương sai là khái niệm rất quan trọng trong kinh tế lượng và ước lượng mô hình.

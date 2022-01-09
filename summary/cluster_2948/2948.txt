@@ -1,0 +1,4 @@
+keyword: Bội số
+url: https://vi.wikipedia.org/wiki/B%E1%BB%99i_s%E1%BB%91
+content:
+Trong khoa học, bội số hay bội là tích giữa một số bất kì với một số nguyên. Nói cách khác, với các số a và b, ta nói b là một bội của a nếu b = na với mọi số nguyên n, trong đó n được gọi là số nhân. Nếu a khác không, đồng nghĩa với nói rằng b/a là một số nguyên, tức là bội của một số là một số chứa một lượng số nguyên của số đó mà không có số dư. Trong toán học, khi a và b đều là số nguyên, và b là một bội số của a, lúc đó a được gọi là một ước số của b. Nếu a và b không phải là số nguyên, các nhà toán học sẽ dùng từ bội số nguyên thay vì bội số, để làm rõ vấn đề. Thực tế, bội số còn được dùng với nhiều nghĩa khác; ví dụ: đa thức P là một bội số của đa thức Q nếu tồn tại một đa thức R sao cho P = QR. Trong một số ngữ cảnh, "a là một ước số của b" có nghĩa là "b là một bội số nguyên của a".

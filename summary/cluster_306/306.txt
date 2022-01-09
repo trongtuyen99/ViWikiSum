@@ -1,0 +1,4 @@
+keyword: Bất đẳng thức trung bình cộng và trung bình nhân
+url: https://vi.wikipedia.org/wiki/B%E1%BA%A5t_%C4%91%E1%BA%B3ng_th%E1%BB%A9c_trung_b%C3%ACnh_c%E1%BB%99ng_v%C3%A0_trung_b%C3%ACnh_nh%C3%A2n
+content:
+Trong toán học, bất đẳng thức AM-GM là bất đẳng thức so sánh giữa trung bình cộng và trung bình nhân của n số thực không âm. Tên gọi đúng của bất đẳng thức này là bất đẳng thức AM-GM. Vì có nhiều cách để chứng minh bất đẳng thức này nhưng cách chứng minh quy nạp của Cauchy được đánh giá là hiệu quả nhất nên nhiều người nhầm lẫn rằng Cauchy phát hiện ra bất đẳng thức này. Ông chỉ là người đưa ra cách chứng minh rất hay của mình chứ không phải là người phát hiện ra đầu tiên. Theo cách gọi tên chung của quốc tế, bất đẳng thức Bunyakovsky có tên là bất đẳng thức Cauchy-Schwarz, còn bất đẳng thức Cauchy có tên là bất đẳng thức AM-GM (Arithmetic Means - Geometric Means).

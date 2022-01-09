@@ -1,0 +1,4 @@
+keyword: Hàm số
+url: https://lazi.vn/edu/exercise/489079/ham-so-la-gi-hay-cho-vi-du
+content:
+Ví dụ một hàm số f xác định trên tập hợp số thực R bằng biểu thức: y = x2 - 5 sẽ cho tương ứng mỗi số thực x với một số thực y duy nhất nhận giá trị là x2 - 5, như vậy 3 sẽ tương ứng với 4. Khi hàm f được xác định, ta có thể viết f(3) = 4. Đôi khi chữ hàm được dùng như cách gọi tắt thay cho hàm số. Tuy nhiên trong các trường hợp sử dụng khác, hàm mang ý nghĩa tổng quát là ánh xạ, như trong lý thuyết hàm. Các hàm hay ánh xạ tổng quát có thể là liên hệ giữa các tập hợp không phải là tập số. Ví dụ có thể định nghĩa một hàm là quy tắc cho tương ứng mỗi hãng xe với tên quốc gia xuất xứ của nó, chẳng hạn có thể viết Xuấtxứ(Honda) = Nhật. Kí hiệu hàm số bắt nguồn từ tiếng Anh của từ function, có nghĩa là phụ thuộc, chẳng hạn nghĩa là đại lượng y phụ thuộc vào x một lượng là căn bậc 2 của x, khi đó ta kí hiệu .

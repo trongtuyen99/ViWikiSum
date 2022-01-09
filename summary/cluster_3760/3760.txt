@@ -1,0 +1,4 @@
+keyword: Thấu chi
+url: https://vi.wikipedia.org/wiki/Th%E1%BA%A5u_chi
+content:
+Thấu chi là khi tiền được rút khỏi một tài khoản ngân hàng và số dư có sẵn đi dưới số không. Trong trường hợp này tài khoản được gọi là "thấu chi". Nếu có sự thoả thuận trước với nhà cung cấp tài khoản cho một thấu chi, và số tiền thấu chi là trong hạn mức thấu chi được phép, sau đó tiền lãi thường được tính theo lãi suất thỏa thuận. Nếu số dư âm vượt quá các điều khoản thỏa thuận, thì phí bổ sung có thể phải trả và lãi suất cao hơn có thể áp dụng.

@@ -1,0 +1,4 @@
+keyword: Cấu trúc liên kết mạng
+url: https://vi.wikipedia.org/wiki/C%E1%BA%A5u_tr%C3%BAc_li%C3%AAn_k%E1%BA%BFt_m%E1%BA%A1ng
+content:
+Cấu trúc liên kết mạng là sự sắp xếp các phần tử khác nhau (liên kết, nút mạng, vân vân.) Chủ yếu, đó là cấu trúc tô pô của một mạng máy tính, và có thể mô tả theo tính vật lý và lôgíc. Cấu trúc liên kết vật lý (tô pô vật lý) là sự sắp đặt các thành phần mạng khác nhau, bao gồm nơi chứa thiết bị và cài đặt dây cáp nối, trong khi cấu trúc liên kết lôgíc (tô pô lôgíc) chỉ ra cách hoạt động của dòng dữ liệu trong mạng. Khoảng cách giữa các nút mạng, điểm giao vật lý, tỉ lệ truyền tải, và/hoặc dạng tín hiệu có thể khác nhau giữa hai mạng cho dù cấu trúc tô pô của chúng có thể giống hệt nhau.

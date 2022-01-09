@@ -1,0 +1,4 @@
+keyword: Tài khoản tiền gửi
+url: https://vi.wikipedia.org/wiki/T%C3%A0i_kho%E1%BA%A3n_ti%E1%BB%81n_g%E1%BB%ADi
+content:
+Tài khoản tiền gửi là tài khoản ngân hàng được duy trì bởi một tổ chức tài chính, trong đó khách hàng có thể gửi và rút tiền. Tài khoản tiền gửi có thể là tài khoản tiết kiệm, tài khoản vãng lai hoặc bất kỳ loại tài khoản nào khác được giải thích bên dưới. Giao dịch trên tài khoản tiền gửi được ghi lại trong sổ sách của ngân hàng và số dư kết quả được ghi nhận là một khoản nợ của ngân hàng và thể hiện số tiền mà ngân hàng còn nợ cho khách hàng. Một số ngân hàng tính phí cho các giao dịch trên tài khoản của khách hàng. Ngoài ra, một số ngân hàng trả lãi cho khách hàng trên số dư tài khoản của họ.

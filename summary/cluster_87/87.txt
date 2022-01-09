@@ -1,0 +1,4 @@
+keyword: Định lượng
+url: https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Bnh_l%C6%B0%E1%BB%A3ng
+content:
+Khi xác định mật độ khối lượng theo diện tích của vật liệu mỏng, người ta dùng khái niệm định lượng, được định nghĩa bằng khối lượng của tấm vật liệu đó với diện tích của một đơn vị diện tích chuẩn. Nó được đo bằng thương số giữa khối lượng vật liệu trên một đơn vị đo diện tích (ví dụ theo đơn vị đo g/m² tức gsm). Ví dụ: người ta hay nói giấy 70g/m², 80g/m²., bên tiếng Anh có từ tương ứng là grammage. Ngoài ra, người ta còn dùng cụm từ basis weight để chỉ trọng lượng của một tập giấy chuẩn, bao gồm 500 (đôi khi là 1000) tờ giấy đồng đều bằng nhau, có kích thước tuân theo một quy định nhất định nào đó. Với các loại giấy dày, người ta sử dụng đơn vị đo chiều dày để so sánh. Định lượng thường tỷ lệ thuận với độ dày và khối lượng riêng, nhưng không phải là phản ánh chính xác so sánh độ dày. Giấy cuse định lượng 180gsm có thể mỏng hơn giấy woodfree 160gsm.

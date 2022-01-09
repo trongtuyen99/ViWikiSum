@@ -1,0 +1,4 @@
+keyword: Đơn vị khối lượng nguyên tử
+url: https://vi.wikipedia.org/wiki/%C4%90%C6%A1n_v%E1%BB%8B_kh%E1%BB%91i_l%C6%B0%E1%BB%A3ng_nguy%C3%AAn_t%E1%BB%AD
+content:
+Đơn vị khối lượng nguyên tử hay dalton (ký hiệu SI: u hoặc Da), là một đơn vị đo khối lượng trong hóa học và vật lý, sử dụng đo khối lượng của các nguyên tử và phân tử. Nó được quy ước bằng một phần mười hai khối lượng của nguyên tử carbon đồng vị 12. Nguyên tử có khối lượng vô cùng nhỏ bé, nếu tính bằng gram thì số trị vô cùng nhỏ, không tiện dụng. Thí dụ, khối lượng của một nguyên tử Cacbon (C) là: 0,000 000 000 000 000 000 000 019 926 g (= 1,9926. Tại Việt Nam, người ta quy ước lấy 1/12 khối lượng của nguyên tử Cacbon làm đơn vị khối lượng cho nguyên tử, được gọi là Đơn vị Cacbon, viết tắt là đvC. Trong Hệ Đo lường Quốc tế (SI), nó được ký hiệu bằng chữ "u".

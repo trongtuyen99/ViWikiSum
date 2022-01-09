@@ -1,0 +1,4 @@
+keyword: Chỉ số giá tiêu dùng
+url: https://vi.wikipedia.org/wiki/Ch%E1%BB%89_s%E1%BB%91_gi%C3%A1_ti%C3%AAu_d%C3%B9ng
+content:
+Chỉ số giá tiêu dùng (hay được viết tắt là CPI, từ các chữ tiếng Anh Consumer Price Index) là chỉ số tính theo phần trăm để phản ánh mức thay đổi tương đối của giá hàng tiêu dùng theo thời gian. Sở dĩ chỉ là thay đổi tương đối vì chỉ số này chỉ dựa vào một giỏ hàng hóa đại diện cho toàn bộ hàng tiêu dùng. Đây là chỉ tiêu được sử dụng phổ biến nhất để đo lường mức giá và sự thay đổi của mức giá chính là lạm phát (một chỉ tiêu khác để phản ánh mức giá chung là Chỉ số giảm phát tổng sản phẩm trong nước hay Chỉ số điều chỉnh GDP).

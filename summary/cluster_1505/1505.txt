@@ -1,0 +1,4 @@
+keyword: Chỉ số giảm phát GDP
+url: https://vi.wikipedia.org/wiki/Ch%E1%BB%89_s%E1%BB%91_gi%E1%BA%A3m_ph%C3%A1t_GDP
+content:
+Chỉ số giảm phát GDP (tGDP deflator), còn gọi là Chỉ số điều chỉnh GDP thường được ký hiệu là DGDP, là chỉ số tính theo phần trăm phản ánh mức giá chung của tất cả các loại hàng hoá, dịch vụ sản xuất trong nước. Chỉ số điều chỉnh GDP cho biết một đơn vị GDP điển hình của kỳ nghiên cứu có mức giá bằng bao nhiêu phần trăm so với mức giá của năm cơ sở. (Số liệu thống kê của Việt Nam công bố đang tính GDP theo giá của năm 1994). DGDP phản ánh sự biến động GDP danh nghĩa do sự biến động của giá (cơ sở để đánh giá lạm phát).

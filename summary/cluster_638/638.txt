@@ -1,0 +1,4 @@
+keyword: Tán xạ Rayleigh
+url: https://vi.wikipedia.org/wiki/T%C3%A1n_x%E1%BA%A1_Rayleigh
+content:
+Tán xạ Rayleigh (gọi tên theo nhà vật lý Lord Rayleigh) là một loại tán xạ ánh sáng (hay sóng điện từ nói chung) bởi các hạt hay các vùng không đồng nhất trong môi trường có kích thước rất nhỏ hơn so với bước sóng của ánh sáng. Kiểu tán xạ này làm lệch hướng mạnh các tia sáng có bước sóng ngắn nhất. Tán xạ Rayleigh hay được quan sát khi ánh sáng đi qua các chất rắn, lỏng hay khí trong suốt. Ánh sáng trắng từ Mặt Trời đi vào khí quyển của Trái Đất bị cũng tán xạ kiểu Rayleigh, tạo nên bầu trời màu xanh da trời. Tán xạ Rayleigh có thể coi như một trường hợp đặc biệt của tán xạ Mie, khi lấy giới hạn hệ số kích thước tiến dần đến 0 và hơn nữa.

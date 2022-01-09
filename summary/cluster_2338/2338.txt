@@ -1,0 +1,4 @@
+keyword: Nhôm sulfat
+url: https://vi.wikipedia.org/wiki/Nh%C3%B4m_sulfat
+content:
+Nhôm sunfat là một hợp chất hóa học với công thức Al2(SO4)3. Nó hòa tan trong nước và chủ yếu được sử dụng như một chất kết tủa (khiến các hạt ô nhiễm co cụm lại thành các hạt lớn hơn, dễ dàng bị mắc kẹt) trong lọc nước uống và các nhà máy xử lý nước thải, và trong sản xuất giấy.

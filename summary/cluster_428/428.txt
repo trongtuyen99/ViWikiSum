@@ -1,0 +1,4 @@
+keyword: Giấy phép BSD
+url: https://vi.wikipedia.org/wiki/Gi%E1%BA%A5y_ph%C3%A9p_BSD
+content:
+Giấy phép BSD là một gia đình của giấy phép phần mềm miễn phí cho phép, áp đặt các hạn chế tối thiểu về việc sử dụng và phân phối các phần mềm được bảo vệ. Điều này trái ngược với giấy phép copyleft, có các yêu cầu giống nhau. Giấy phép BSD ban đầu được sử dụng cho tên gọi của nó, Berkeley Software Distribution (BSD), một hệ điều hành tương tự Unix. Phiên bản gốc đã được sửa đổi và con cháu của nó được gọi là giấy phép BSD sửa đổi. BSD vừa là giấy phép và vừa là một nhóm giấy phép (thường được gọi là BSD). Giấy phép BSD sửa đổi (sử dụng rộng rãi hiện nay) rất giống với giấy phép ban đầu được sử dụng cho phiên bản BSD của Unix. Giấy phép BSD là một giấy phép đơn giản chỉ yêu cầu tất cả các mã được cấp phép theo giấy phép BSD nếu được phân phối lại ở định dạng mã nguồn. BSD (không giống như một số giấy phép khác) không yêu cầu mã nguồn đó phải được phân phối.

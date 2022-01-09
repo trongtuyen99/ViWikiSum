@@ -1,0 +1,4 @@
+keyword: Giao dịch trực tuyến
+url: https://vi.wikipedia.org/wiki/Giao_d%E1%BB%8Bch_tr%E1%BB%B1c_tuy%E1%BA%BFn
+content:
+Giao dịch trực tuyến là hành vi mua, bán tiền tệ, cổ phiếu, trái phiếu và các công cụ tài chính qua Internet, thông thường với một công ty môi giới nào đó. Công ty môi giới trực tuyến sẽ đưa ra tài khoản demo miễn phí cho phép bất kỳ ai kết nối với Internet, từ đó có khả năng kinh doanh ảo. Tài khoản Demat: Nó phục vụ như là một ngân hàng - nơi bạn mua các cổ phiếu được đặt và các cổ phiếu bạn bán được rút ra. Tài khoản giao dịch: Đây là tài khoản thông qua đó bạn chỉ đạo các đơn đặt hàng trong thị trường chứng khoán. Nó giúp đo lường hiệu quả của các giao dịch được thực hiện, bằng cách trình bày tỷ lệ giữa cổ phiếu bán ra và lợi nhuận thu lại được qua chúng.

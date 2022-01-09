@@ -1,0 +1,4 @@
+keyword: Siêu văn bản
+url: https://vi.wikipedia.org/wiki/Si%C3%AAu_v%C4%83n_b%E1%BA%A3n
+content:
+Siêu văn bản (tiếng Anh: hypertext) là loại văn bản tích hợp nhiều dạng dữ liệu khác nhau như: văn bản, âm thanh, hình ảnh, video,. và các siêu liên kết đến các siêu văn bản khác. Siêu văn bản là văn bản của một tài liệu có thể được truy tìm không theo tuần tự. Người đọc có thể tự do đuổi theo các dấu vết liên quan qua suốt tài liệu đó bằng các mối liên kết xác định sẵn do người sử dụng tự lập nên. Trong một môi trường ứng dụng siêu văn bản thực sự, người đọc có thể trỏ vào chỗ tô sáng (highlight) bất kì từ nào của tài liệu và tức khắc nhảy đến những tài liệu khác có văn bản liên quan đến nó. Cũng có những lệnh cho phép người đọc tự tạo cho riêng mình những dấu vết kết hợp qua suốt tài liệu. Các trình ứng dụng dùng siêu văn bản rất hữu ích trong trường hợp phải phải làm việc với số lượng văn bản lớn, như các bộ từ điển bách khoa và các bộ sách nhiều tập.

@@ -1,0 +1,4 @@
+keyword: Ngôn ngữ lập trình bậc thấp
+url: https://vi.wikipedia.org/wiki/Ng%C3%B4n_ng%E1%BB%AF_l%E1%BA%ADp_tr%C3%ACnh_b%E1%BA%ADc_th%E1%BA%A5p
+content:
+Trong khoa học máy tính, ngôn ngữ lập trình bậc thấp là một ngôn ngữ lập trình liên quan chặt chẽ đến phần cứng máy tính. Từ "thấp" không có nghĩa là ngôn ngữ này kém hơn các ngôn ngữ lập trình bậc cao mà điều này nghĩa là các lệnh của nó rất gần ngôn ngữ máy. Các từ "bậc cao" và "bậc thấp" còn sử dụng với ý nghĩa tương đối; một lập trình viên Java có thể xem ngôn ngữ C là ngôn ngữ lập trình bậc thấp. Các ngôn ngữ lập trình bậc thấp thường được chia thành hai loại: thế hệ thứ nhất và thế hệ thứ hai.

@@ -1,0 +1,4 @@
+keyword: Giá khớp lệnh
+url: https://vi.wikipedia.org/wiki/Gi%C3%A1_kh%E1%BB%9Bp_l%E1%BB%87nh
+content:
+Giá khớp lệnh là mức giá được xác định từ kết quả khớp lệnh của Trung tâm giao dịch chứng khoán, thoả mãn được nhu cầu của người mua và người bán và áp dụng cho tất cả các lệnh được thực hiện. Mức giá giao dịch (giá khớp lệnh) là mức giá có khối lượng giao dịch lớn nhất. VD: Trong phiên giao dịch ngày 03/04/2007, giá khớp lệnh của cổ phiếu ABT đạt ở mức giá 123.000 đồng/cổ phiếu. Tất cả những ai có lệnh mua hoặc lệnh bán được khớp sẽ được mua và bán với giá 123.

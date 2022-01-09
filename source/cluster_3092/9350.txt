@@ -1,0 +1,4 @@
+keyword: Tỉ lệ nghịch
+url: https://ladigi.vn/ti-le-nghich-la-gi-chi-tiet-ve-ti-le-nghich-moi-nhat-2021
+content:
+Tỉ lệ nghịch là mối tương quan giữa hai đại lượng, mà nếu tăng đại lượng này bao nhiêu lần thì đại lượng kia giảm bấy nhiêu lần. Nói khác đi là: Nếu “a” là đại lượng thứ nhất, thì đại lượng tỉ lệ nghịch với “a” là “nghịch đảo – có hệ số – của a” (k/a), và “k” là một hằng số dương bất kì. Trong toán học thì đồ thị biểu diễn mối tương quan “tỉ lệ nghịch” giữa hai đại lượng là hai cánh cung nằm ở hai góc vuông I và III của hệ quy chiếu Ox,Oy. Hai cánh cung này được gọi là đường cong hyperbol.

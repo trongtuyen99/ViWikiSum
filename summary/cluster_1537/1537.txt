@@ -1,0 +1,4 @@
+keyword: Kế toán kép
+url: https://vi.wikipedia.org/wiki/K%E1%BA%BF_to%C3%A1n_k%C3%A9p
+content:
+Kế toán kép là việc ghi chép, phản ánh các nghiệp vụ kinh doanh, tài chính vào các tài khoản kế toán theo mối quan hệ khách quan giữa các đối tượng kế toán và đúng mối quan hệ đối ứng giữa các tài khoản kế toán với nhau. Đây là cách phân loại kế toán căn cứ theo phương pháp ghi chép, phản ánh trên các tài khoản kế toán trong nghiệp vụ kế toán. Đi cùng với kế toán kép là khái niệm kế toán đơn.

@@ -1,0 +1,4 @@
+keyword: Siêu âm y khoa
+url: https://vi.wikipedia.org/wiki/Si%C3%AAu_%C3%A2m_y_khoa
+content:
+Siêu âm y khoa là một phương tiện thường được dùng để chẩn đoán các bệnh nội khoa và sản khoa. Đó là một kỹ thuật dùng sóng siêu âm có tần số cao tạo ra hình ảnh y học về cấu trúc bên trong cơ thể con người. Nhờ đó bác sĩ có thể xem được, chẳng hạn trong trường hợp phụ nữ có thai, sự phát triển của bào thai, hay chẩn đoán bệnh tật.

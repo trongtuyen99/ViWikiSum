@@ -1,0 +1,4 @@
+keyword: Phân tích ABC
+url: https://vi.wikipedia.org/wiki/Ph%C3%A2n_t%C3%ADch_ABC
+content:
+Trong quản lý nguyên vật liệu, phân tích ABC (hoặc Kiểm soát hàng tồn kho chọn lọc) là một kỹ thuật phân loại hàng tồn kho. Phân tích ABC chia hàng tồn kho thành ba loại - "Mục" A với kiểm soát rất chặt chẽ và hồ sơ chính xác, "Mục B" với hồ sơ tốt và ít kiểm soát chặt chẽ hơn và "Mục C" với các điều khiển đơn giản nhất có thể và hồ sơ tối thiểu. Phân tích ABC cung cấp một cơ chế để xác định các mặt hàng sẽ có tác động đáng kể đến chi phí hàng tồn kho tổng thể, đồng thời cung cấp cơ chế xác định các loại hàng tồn kho khác nhau sẽ yêu cầu quản lý và kiểm soát khác nhau. Phân tích ABC cho thấy hàng tồn kho của một tổ chức không có giá trị như nhau. Do đó, hàng tồn kho được nhóm thành ba loại (A, B và C) theo mức độ quan trọng ước tính của chúng. Các mặt hàng A rất quan trọng đối với một tổ chức. Do giá trị cao của các mục A này, cần phải phân tích giá trị thường xuyên.

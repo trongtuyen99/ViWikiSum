@@ -1,0 +1,4 @@
+keyword: Tiền tố
+url: https://vi.wikipedia.org/wiki/Ti%E1%BB%81n_t%E1%BB%91
+content:
+Tiền tố (tiếng Anh: prefix), còn gọi là tiếp đầu ngữ, là một phụ tố được đặt trước một từ. Thêm tiền tố vào một từ làm thay đổi ý nghĩa của từ đó. Ví dụ khi thêm tiền tố un- vào từ happy, nó tạo ra từ trái nghĩa là unhappy. Tiền tố, cũng giống như các phụ tố khác, có thể là một dạng gây thay đổi ý nghĩa, tạo ra một dạng mới của từ có cùng ý nghĩa cơ bản và có chung từ loại (nhưng đóng một vai trò khác trong câu), hoặc dạng dẫn xuất, tạo ra một từ mới với ngữ nghĩa mới và thỉnh thoảng cũng thuộc một từ loại khác. Tiền tố, giống như tất cả các phụ tố khác, thường là các hình thái morpheme.

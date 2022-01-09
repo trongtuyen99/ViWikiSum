@@ -1,0 +1,4 @@
+keyword: Hệ thống rời rạc
+url: http://www.zun.vn/tai-lieu/bai-giang-mo-ta-toan-hoc-he-thong-dieu-khien-roi-rac-6559/
+content:
+liên tục theo thời gian. Tùy thuộc vào phương pháp lượng tử hoá tín hiệu mà. ta có các loại hệ thống xử lý tín hiệu khác nhau. Phương pháp lượng tử hoá. theo thời gian cho tín hiệu có biên độ liên tục, thời gian rời rạc. lý loại tín hiệu này được gọi là hệ thống rời rạc. Nếu phép lượng tử hoá được. Hệ thống xử lý tín hiệu số gọi là hệ thống số. Trong hệ thống rời rạc và. thời điểm rời rạc cách đều nhau đúng bằng một chu kỳ lấy mẫu tín hiệu. để điều khiển các đối tượng. Hệ thống điều khiển số có nhiều ưu điểm so với. bằng cách lập trình. Máy tính số còn có thể điều khiển nhiều đối tượng cùng. Ngoài ra, giá máy tính ngày càng hạ trong khi đó tốc độ xử lý, độ. điều khiển số trở nên phổ biến. Hiện nay các hệ thống điều khiển số được sử. nghệ hóa học và các hệ thống tự động cho những ứng dụng khác nhau.

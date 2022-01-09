@@ -1,0 +1,4 @@
+keyword: Hàm kích hoạt
+url: https://vi.wikipedia.org/wiki/H%C3%A0m_k%C3%ADch_ho%E1%BA%A1t
+content:
+Trong mạng neural nhân tạo, hàm kích hoạt của một nút định nghĩa đầu ra của nút đó được cho bởi một đầu vào hay tập đầu vào. Hiểu theo cách khác, với một đầu vào hay tập đầu vào, hàm kích hoạt sẽ cho ra đầu ra của một nút bất kỳ nào đó. Một vi mạch tiêu chuẩn có thể xem là một mạch chip máy tính của các hàm kích hoạt có hai trạng thái "ON" hoặc "OFF", tùy theo đầu vào. Điều này tương tự như hành vi của perceptron trong mạng thần kinh. Tuy nhiên, chỉ có những hàm kích hoạt không tuyến tính mới cho phép các mạng thần kinh tính toán các bài toán khó (không tầm thường) với việc dùng một số lượng nhỏ các nút. Trong mạng thần kinh nhân tạo, hàm này được gọi là hàm truyền.

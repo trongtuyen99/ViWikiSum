@@ -1,0 +1,4 @@
+keyword: Kỹ thuật hàng không
+url: https://vi.wikipedia.org/wiki/K%E1%BB%B9_thu%E1%BA%ADt_h%C3%A0ng_kh%C3%B4ng
+content:
+Kỹ thuật hàng không là khoa học về hàng không, về thiết kế, lắp ráp, phát triển và đảm bảo các yếu tố kỹ thuật trực tiếp cho các phương tiện bay (máy bay và khí cụ bay). Các kỹ sư hàng không tập trung vào phát triển không phận, thiết kế sân bay, công nghệ định vị và điều hướng máy bay và quy hoạch sân bay. Các chuyên gia làm việc trong lĩnh vực này thử nghiệm với những đổi mới trong công nghệ và vật liệu, thử nghiệm máy bay, mô phỏng điều kiện bay,. v.v. Ngành này cũng liên quan đến việc xây dựng chính sách công, quy định, luật hàng không liên quan đến không phận, hãng hàng không, sân bay, bãi đáp và thực hiện các thỏa thuận dịch vụ hàng không thông qua các hiệp ước. Ngành kỹ thuật này khác biệt với kỹ thuật hàng không vũ trụ liên quan đến khoa học về tàu bay và thiết bị vũ trụ.

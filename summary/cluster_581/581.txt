@@ -1,0 +1,4 @@
+keyword: Tên miền quốc gia cấp cao nhất
+url: https://vi.wikipedia.org/wiki/T%C3%AAn_mi%E1%BB%81n_qu%E1%BB%91c_gia_c%E1%BA%A5p_cao_nh%E1%BA%A5t
+content:
+Tên miền quốc gia cấp cao nhất (tiếng Anh: Country code top-level domain, viết tắt là ccTLD) hay gọi tắt là tên miền quốc gia là 1 tên miền cấp cao nhất Internet, được dùng hoặc dự trữ cho 1 quốc gia hoặc 1 lãnh thổ phụ thuộc. Tên xác định tên miền quốc gia dài 2 ký tự, và tất cả các tên miền cấp cao nhất có 2 ký tự đều là tên miền quốc gia. Việc tạo ra và ủy quyền cho các tên miền quốc gia được thực hiện bởi Tổ chức cấp phát số hiệu Internet (Internet Assigned Numbers Authority, IANA), với một số ngoại lệ nhất định được ghi ở dưới tương ứng với mã quốc gia ISO 3166-1 alpha-2 được duy trì bởi Liên Hợp Quốc.

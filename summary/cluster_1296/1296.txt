@@ -1,0 +1,4 @@
+keyword: Thấu kính
+url: https://vi.wikipedia.org/wiki/Th%E1%BA%A5u_k%C3%ADnh
+content:
+Trong quang học, một thấu kính là một dụng cụ quang học dùng để hội tụ hay phân kỳ chùm ánh sáng, nhờ vào hiện tượng khúc xạ, thường được cấu tạo bởi các mảnh thủy tinh được chế tạo với hình dạng và chiết suất phù hợp. Khái niệm thấu kính cũng được mở rộng cho các bức xạ điện từ khác, ví dụ, thấu kính cho vi sóng được làm bằng chất nến. Trong ngữ cảnh mở rộng, các thấu kính làm việc với ánh sáng và bằng kỹ thuật truyền thống được gọi là thấu kính quang học. Từ thấu kính trong tiếng Anh xuất phát từ tên Latinh là lentil, nghĩa là loài họ Đậu có hoa, vì thấu kính có 2 mặt lồi giống như loại thực vật này.

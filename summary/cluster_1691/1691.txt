@@ -1,0 +1,4 @@
+keyword: Thu nhập quốc dân
+url: https://vi.wikipedia.org/wiki/Thu_nh%E1%BA%ADp_qu%E1%BB%91c_d%C3%A2n
+content:
+Thu nhập quốc dân (Gross national income – GNI) là chỉ số kinh tế xác định tổng thu nhập của một quốc gia trong một thời gian, thường là một năm. Đây là chỉ tiêu đo thực lực của quốc gia. Thu nhập quốc dân tương tự như Tổng sản lượng quốc gia – GNP, chỉ khác biệt ở chỗ GNP không trừ đi thuế gián thu và khấu hao. Ví dụ, lợi nhuận của một công ty Mỹ hoạt động tại Anh sẽ được tính vào GNI của Mỹ và GDP của Anh, không tính vào GNI của Anh hay GDP của Mỹ.

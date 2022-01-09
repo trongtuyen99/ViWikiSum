@@ -1,0 +1,4 @@
+keyword: Tên của các ngày trong tuần
+url: https://vi.wikipedia.org/wiki/T%C3%AAn_c%E1%BB%A7a_c%C3%A1c_ng%C3%A0y_trong_tu%E1%BA%A7n
+content:
+Tên của các ngày trong tuần bằng nhiều ngôn ngữ được lấy từ tên của các hành tinh cổ điển trong chiêm tinh học Hy Lạp, được đặt theo tên của các vị thần đương đại, một hệ thống được giới thiệu bởi Đế chế La Mã trong Thời cổ đại. Trong một số ngôn ngữ khác, ngày được đặt tên theo các vị thần tương ứng của văn hóa khu vực, bắt đầu bằng Chủ nhật hoặc Thứ hai. Trong tiêu chuẩn quốc tế ISO 8601, Thứ hai được coi là ngày đầu tiên trong tuần.

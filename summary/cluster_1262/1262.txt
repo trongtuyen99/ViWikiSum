@@ -1,0 +1,4 @@
+keyword: Mệnh đề toán học
+url: https://vi.wikipedia.org/wiki/M%E1%BB%87nh_%C4%91%E1%BB%81_to%C3%A1n_h%E1%BB%8Dc
+content:
+Trong logic toán, một phân ngành logic, cơ sở của mọi ngành toán học, mệnh đề, hay gọi đầy đủ là mệnh đề logic là một khái niệm nguyên thủy, không định nghĩa. Mỗi mệnh đề có đúng một trong hai giá trị chân lý 0 hoặc 1. Mệnh đề có giá trị chân lý 1 là mệnh đề đúng, mệnh đề có giá trị chân lý 0 là mệnh đề sai. Người ta thường dùng các chữ cái a, b, c,. để ký hiệu cho các mệnh đề. Nếu mệnh đề a có giá trị chân lý là 1 thì ta ký hiệu G(a) = 1; nếu mệnh đề a có giá trị chân lý là 0 thì ta ký hiệu là G(a) = 0. a: "Paris là thủ đô của nước Pháp".Ở đây, a là mệnh đề đúng nên G(a) = 1. Trong thực tế có những mệnh đề mà tính đúng sai của nó luôn gắn với một thời gian và địa điểm cụ thể: đúng ở thời gian hoặc địa điểm này nhưng sai ở thời gian hoặc địa điểm khác. Nhưng ở bất kì thời điểm nào, địa điểm nào cũng luôn có giá trị chân lý đúng hoặc sai.

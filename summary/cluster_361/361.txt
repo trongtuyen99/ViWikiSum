@@ -1,0 +1,4 @@
+keyword: Phân tích nhân tố
+url: https://vi.wikipedia.org/wiki/Ph%C3%A2n_t%C3%ADch_nh%C3%A2n_t%E1%BB%91
+content:
+Phân tích nhân tố là một phương pháp thống kê dùng để mô tả sự biến thiên của những biến có tương quan được quan sát bằng một số nhỏ hơn các biến không quan sát được gọi là nhân tố. Ví dụ, sự biến thiên của bốn biến quan sát được có thể chỉ thể hiện sự biến thiên của hai biến không quan sát được. Những biến quan sát được mô hình hoá bằng tổ hợp tuyến tính của những nhân tố tiềm năng, cộng với số hạng lỗi. Thông tin có được từ sự tương thuộc giữa những biến quan sát được có thể được dùng về sau để giảm số biến trong một bộ dữ liệu. Về mặt tính toán kỹ thuật này tương đương với low-rank approximation của ma trận biến quan sát được. Phân tích nhân tố bắt nguồn từ tâm lý lượng và được sử dụng trong khoa học hành vi, khoa học xã hội, tiếp thị, quản lý sản phẩm, vận trù học và các khoa học ứng dụng khác làm việc với lượng dữ liệu lớn.

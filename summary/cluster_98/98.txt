@@ -1,0 +1,4 @@
+keyword: Chồng hàm
+url: https://vi.wikipedia.org/wiki/Ch%E1%BB%93ng_h%C3%A0m
+content:
+Chồng hàm (tiếng Anh: function overloading hay method overloading) là một tính năng được hỗ trợ trong nhiều ngôn ngữ lập trình như Ada, C , VB.NET, C++, D và Java. Tính năng này cho phép chúng ta định nghĩa nhiều hàm hay thủ tục với cùng một tên nhưng có khác nhau về các tham số đầu vào hay đầu ra. Ví dụ: doTask() và doTask(int n) là các hàm chồng. Nếu ta gọi tên hàm này mà không có tham số vào thì hàm thứ nhất sẽ được gọi. Để gọi hàm thứ hai, chúng ta phải truyền một tham số vào là một giá trị nguyên như doTask(8).

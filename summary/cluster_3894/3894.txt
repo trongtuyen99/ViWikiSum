@@ -1,0 +1,4 @@
+keyword: An ninh thiết bị đầu cuối
+url: https://vi.wikipedia.org/wiki/An_ninh_thi%E1%BA%BFt_b%E1%BB%8B_%C4%91%E1%BA%A7u_cu%E1%BB%91i
+content:
+An ninh thiết bị đầu cuối hay bảo mật thiết bị đầu cuối (tiếng Anh: Endpoint Security hoặc Endpoint Protection) là một công nghệ bảo vệ mạng máy tính được kết nối từ xa tới các thiết bị của người dùng. Việc sử dụng máy tính xách tay, máy tính bảng, điện thoại di động và các thiết bị không dây khác được kết nối với mạng công ty tạo ra những con đường dễ bị tổn thương đối với các mối đe dọa an ninh. An ninh thiết bị đầu cuối cố gắng đảm bảo rằng các thiết bị như vậy theo một mức độ nhất định của các yêu cầu và tiêu chuẩn.

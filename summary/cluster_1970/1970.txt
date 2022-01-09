@@ -1,0 +1,4 @@
+keyword: Nhiệt độ và áp suất tiêu chuẩn
+url: https://vi.wikipedia.org/wiki/Nhi%E1%BB%87t_%C4%91%E1%BB%99_v%C3%A0_%C3%A1p_su%E1%BA%A5t_ti%C3%AAu_chu%E1%BA%A9n
+content:
+Nhiệt độ và áp suất tiêu chuẩn hay STP (viết tắt của Standard temperature and pressure trong tiếng Anh) là các điều kiện vật lý tiêu chuẩn để thực hiện các đo lường trong thí nghiệm, cho phép so sánh giữa các bộ kết quả thí nghiệm. Trên thế giới, STP hiện do IUPAC (Liên minh quốc tế về hóa học thuần túy và ứng dụng) định nghĩa là giá trị quy ước có trị số nhiệt độ 298 độ K ( độ C) và áp suất là 100 kPa (1 bar).Nhiệt độ và áp suất tiêu chuẩn cũng thường được gọi là điều kiện tiêu chuẩn (đktc). Điều kiện tiêu chuẩn còn có thể bao hàm cả độ ẩm tương đối tiêu chuẩn. Có nhiều định nghĩa cũng đang được dùng bởi các tổ chức khác về điều kiện tiêu chuẩn (xem bảng bên dưới); trong đó đôi khi khái niệm nhiệt độ phòng (khoảng 25 độ C) được sử dụng thay cho 0 độ C.

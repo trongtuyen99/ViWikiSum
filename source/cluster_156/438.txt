@@ -1,0 +1,4 @@
+keyword: Hàm số
+url: https://hoidaptructuyen.vn/cau-hoi/ham-so-va-nhung-dinh-nghia-co-ban-nhat/
+content:
+Nếu đại lượng y phụ thuộc vào đại lượng thay đổi x sao cho mỗi giá trị của x ta luôn xác định một giá trị tương đương y thì y gọi là hàm số của x và x được gọi là biến số của y. Cho X, Y là hai tập hợp số, ví dụ là tập hợp số thực, hàm số f xác định trên X, nhận giá trị trong Y là một quy tắc cho tương ứng mỗi số x thuộc X với một số y duy nhất thuộc Y. Khi x thay đổi mà y luôn nhận một giá trị thì y gọi là hàm hằng. Một hàm số là đơn ánh khi nó áp dụng lên 2 đối số khác nhau luôn cho 2 giá trị khác nhau. Trong toán học, song ánh, hoặc hàm song ánh, là một hàm số f từ tập X vào tập Y thỏa mãn tính chất, đối với mỗi y thuộc Y, có duy nhất một x thuộc X sao cho f(x) = y.

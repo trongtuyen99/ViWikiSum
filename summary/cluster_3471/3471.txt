@@ -1,0 +1,4 @@
+keyword: Cờ nhanh
+url: https://vi.wikipedia.org/wiki/C%E1%BB%9D_nhanh
+content:
+Cờ vua nhanh (Fast chess) là một thể loại trong cờ vua, bao gồm cờ vua chớp nhoáng (Blitz chess), cờ vua nhanh (Rapid chess). Mỗi bên sẽ được cho ít thời gian hơn trong mỗi ván đấu, nhiều nhất là 60 phút. Cờ vua nhanh thể hiện sự nhạy bén trong tư duy một cách nhanh nhất mà con người có thể làm được. Mỗi bên cờ nhanh có thể gồm các thể loại 30 phút, 20 phút, 15 phút dành cho mỗi bên. Người chơi phải cố gắng lướt nhanh bàn cờ và suy nghĩ thật nhanh để không bị thua do hết thời gian, bởi chỉ cần một bên "rụng kim" (hết thời gian) thì xem như thua cuộc, bất kể diễn biến trong ván cờ ra sao (trừ khi bên còn thời gian không còn một quân nào trên bàn cờ, không tính quân vua- thì lúc đó sẽ xử hòa).

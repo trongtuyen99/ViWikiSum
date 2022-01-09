@@ -1,0 +1,4 @@
+keyword: Organ (nhạc cụ)
+url: https://vi.wikipedia.org/wiki/Organ_(nh%E1%BA%A1c_c%E1%BB%A5)
+content:
+Đàn Organ (tiếng Anh: Electronic keyboard) là cách gọi thông thường của Đàn phím điện tử tại Việt Nam. Cách gọi này dễ gây nhầm lẫn với đàn Đại phong cầm (Pipe Organ), tức là loại đàn Organ rất lớn với hệ thống nhiều ống sáo khổng lồ liên kết với đàn, thường chỉ sử dụng trong nhà thờ. Đàn phím điện có hình dạng giống như đàn piano với một bảng điều khiển ở trên. Đa số các loại đàn organ hiện nay sử dụng công nghệ DSP và chia làm hai loại là organ thông thường (61 phím) và piano điện tử (88 phím). Đàn organ sử dụng nguồn điện để hoạt động hoặc dùng pin và đây cũng là nhược điểm của nó so với các loại nhạc cụ truyền thống vì không sử dụng được khi không có điện.

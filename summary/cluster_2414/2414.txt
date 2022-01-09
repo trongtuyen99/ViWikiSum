@@ -1,0 +1,4 @@
+keyword: Chữ biểu âm
+url: https://vi.wikipedia.org/wiki/Ch%E1%BB%AF_bi%E1%BB%83u_%C3%A2m
+content:
+Chữ biểu âm, còn gọi văn tự biểu âm, là hệ thống chữ viết mà trong đó, mỗi một ký hiệu văn tự tương ứng với một âm vị (đơn vị âm thanh nhỏ nhất của một ngôn ngữ) hay một âm tiết (âm thanh tạo thành từ một hoặc nhiều âm vị). Những hệ thống chữ viết tiêu biểu cho chữ biểu âm gồm có chữ Latin, chữ Kirin, chữ Ả Rập, chữ Devanagari, Kana (hiragana và katakana) của tiếng Nhật, Hangul của tiếng Triều Tiên. Trong khi đó, chữ tượng hình Ai Cập, chữ Hán, chữ Nôm, chữ Maya lại đại diện cho hệ thống chữ viết đối lập với chữ biểu âm là văn tự ngữ tố với khả năng biểu nghĩa.

@@ -1,0 +1,4 @@
+keyword: Lịch sử các phiên bản Windows 10
+url: https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_c%C3%A1c_phi%C3%AAn_b%E1%BA%A3n_Windows_10
+content:
+Windows 10 là một hệ điều hành được phát triển bởi Microsoft. Microsoft mô tả Windows 10 là hệ điều hành cũng là một dịch vụ , nghĩa là nó sẽ nhận được các cập nhật liên tục về các tính năng và chức năng của nó, tăng khả năng cho các môi trường doanh nghiệp nhận các cập nhật không quan trọng với tốc độ chậm hơn hoặc sử dụng các cột mốc hỗ trợ dài hạn, tuy nhiên đối với kiểu hỗ trợ dài hạn, khách hàng chỉ nhận được các bản cập nhật quan trọng, chẳng hạn như các bản vá bảo mật, trong suốt năm năm hoạt động hỗ trợ chính. Terry Myerson, phó chủ tịch điều hành của Windows và Devices Group của Microsoft, lập luận rằng mục tiêu của mô hình này là giảm phân mảnh trên nền Windows.

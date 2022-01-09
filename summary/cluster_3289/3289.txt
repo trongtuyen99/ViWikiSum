@@ -1,0 +1,4 @@
+keyword: Bội số chung nhỏ nhất
+url: https://vi.wikipedia.org/wiki/B%E1%BB%99i_s%E1%BB%91_chung_nh%E1%BB%8F_nh%E1%BA%A5t
+content:
+Trong số học, bội số chung nhỏ nhất (hay còn gọi tắt là bội chung nhỏ nhất, được viết tắt là BCNN, tiếng Anh: least common multiple hoặc lowest common multiple (LCM) hoặc smallest common multiple) của hai số nguyên a và b là số nguyên dương nhỏ nhất chia hết cho cả a và b. Tức là nó có thể chia cho a và b mà không để lại số dư. Nếu a hoặc b là 0, thì không tồn tại số nguyên dương chia hết cho a và b, khi đó quy ước rằng LCM(a, b) là 0. Định nghĩa trên đôi khi được tổng quát hoá cho nhiều số nguyên dương: Bội chung nhỏ nhất của a1,., an là số nguyên dương nhỏ nhất là bội số của a1,., an.

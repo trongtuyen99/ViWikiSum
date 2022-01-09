@@ -1,0 +1,4 @@
+keyword: Quản lý xây dựng
+url: https://vi.wikipedia.org/wiki/Qu%E1%BA%A3n_l%C3%BD_x%C3%A2y_d%E1%BB%B1ng
+content:
+Quản lý dự án xây dựng (QLDAXD) là một dịch vụ chuyên nghiệp sử dụng các kĩ thuật chuyên môn, quản lý dự án để giám sát việc lập kế hoạch, thiết kế và xây dựng một dự án, từ đầu công trình đến khi hoàn tất. Mục đích của QLDAXD là để kiểm soát thời gian của một dự án, chi phí và chất lượng. QLDAXD tương thích với tất cả các hệ thống phân phối dự án, bao gồm thiết kế - nhà thầu xây dựng, thiết kế xây dựng, quản lý độ an toàn và rủi ro và đối với các quan hệ đối tác. Mỗi dự án xây dựng cần một số lượng CM. Tuy nhiên, chuyên nghiệp quản lý xây dựng, hoặc QLDAXD, thường dành cho dài, quy mô lớn, chủ trương, ngân sách cao (bất động sản thương mại, cơ sở hạ tầng giao thông vận tải, các cơ sở công nghiệp, cơ sở hạ tầng quân sự,. ), gọi là dự án vốn.

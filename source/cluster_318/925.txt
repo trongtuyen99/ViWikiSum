@@ -1,0 +1,4 @@
+keyword: Số nguyên
+url: https://thichvivu.net/so-nguyen-la-gi-so-thuc-la-gi-tinh-chat-cua-so-nguyen-va-so-thuc-thegioididong-com
+content:
++ Số nguyên là tập hợp bao gồm các số không, số tự nhiên dương và các số đối của chúng còn gọi là số tự nhiên âm. + Tập hợp số nguyên là vô hạn nhưng có thể đếm được và kí hiệu là Z. + Số nguyên được chia làm hai loại là số nguyên dương và số nguyên âm. Lưu ý: Tập hợp các số nguyên dương hay số nguyên âm không bao gồm số 0. + Số thực được định nghĩa là tập hợp bao gồm số nguyên, số hữu tỉ và số vô tỉ. + Số thực được biểu diễn trên một trục số dài vô hạn. Kí hiệu của số thực là R. Hy vọng với những định nghĩa và tính chất của số thực và số nguyên trên đây có thể giúp bạn củng cố được kiến thức toán học của mình. Cảm ơn đã theo dõi!

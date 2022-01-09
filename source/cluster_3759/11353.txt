@@ -1,0 +1,4 @@
+keyword: Cấp số nhân
+url: https://dinhnghia.vn/dinh-nghia-cap-so-nhan.html
+content:
+Cấp số nhân là gì? Định nghĩa cấp số nhân? Lý thuyết cấp số nhân? Giải hệ cấp số nhân?… Có thể thấy, đây là phần kiến thức quan trọng trong chương trình học của em học sinh. Trong bài viết dưới đây, hãy cùng DINHNGHIA.VN tìm hiểu về lý thuyết, định nghĩa cấp số nhân là gì cùng những nội dung liên quan nhé!. Cấp số nhân là một dãy số (hữu hạn hoặc vô hạn) trong đó kể từ số hạng thứ hai, mỗi số hạng đều là tích của số hạng đứng ngay trước nó với một số không đổi q. Cho cấp số nhân lùi vô hạn ((u)) có công bội q. Khi đó ta có tổng của cấp số nhân lùi vô hạn S bằng:

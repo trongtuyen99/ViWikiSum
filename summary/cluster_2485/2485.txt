@@ -1,0 +1,4 @@
+keyword: Quỹ đạo (thiên thể)
+url: https://vi.wikipedia.org/wiki/Qu%E1%BB%B9_%C4%91%E1%BA%A1o_(thi%C3%AAn_th%E1%BB%83)
+content:
+Trong cơ học thiên thể, một quỹ đạo là đường cong hấp dẫn của một thiên thể xung quanh một điểm trong không gian, ví dụ như quỹ đạo của một hành tinh xung quanh trung tâm của một hệ thống sao, chẳng hạn như hệ Mặt Trời. Quỹ đạo của các hành tinh thường có hình elip. Nhưng không giống như hình elip sinh ra bởi một con lắc hoặc một vật thể gắn liền với một lò xo, mặt trời của một hệ sao nằm tại một tiêu điểm của elip chứ không phải ở tâm của nó. Sự hiểu biết hiện tại về cơ học chuyển động quỹ đạo dựa trên thuyết tương đối rộng của Albert Einstein, trong đó giải thích sự hấp dẫn như là sự uốn cong của không-thời gian, với các quỹ đạo tuân theo đường trắc địa. Để dễ dàng tính toán, thuyết tương đối thường xấp xỉ bằng lý thuyết dựa trên lực về vạn vật hấp dẫn, dựa theo các định luật của Kepler về chuyển động của thiên thể.

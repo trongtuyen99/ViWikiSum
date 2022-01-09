@@ -1,0 +1,4 @@
+keyword: Số vòng quay khoản phải thu
+url: https://vi.wikipedia.org/wiki/S%E1%BB%91_v%C3%B2ng_quay_kho%E1%BA%A3n_ph%E1%BA%A3i_thu
+content:
+Số vòng quay khoản phải thu (hay Hệ số quay vòng các khoản phải thu) là một trong những tỷ số tài chính để đánh giá hiệu quả hoạt động của doanh nghiệp. Nó cho biết các khoản phải thu phải quay bao nhiêu vòng trong một kỳ báo cáo nhất định để đạt được doanh thu trong kỳ đó. Có thể tính ra số vòng quay khoản phải thu bằng cách lấy doanh thu thuần (doanh thu không bằng tiền mặt) chia cho trung bình cộng đầu kỳ và cuối kỳ của giá trị các khoản phải thu. Tỷ số này càng lớn chứng tỏ tốc độ thu hồi các khoản phải thu là cao. Quan sát số vòng quay khoản phải thu sẽ cho biết chính sách bán hàng trả chậm của doanh nghiệp hay tình hình thu hồi nợ của doanh nghiệp.

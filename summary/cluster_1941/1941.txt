@@ -1,0 +1,4 @@
+keyword: Hiệu số bàn thắng thua
+url: https://vi.wikipedia.org/wiki/Hi%E1%BB%87u_s%E1%BB%91_b%C3%A0n_th%E1%BA%AFng_thua
+content:
+Trong thể thao, đặc biệt là bóng đá, hiệu số bàn thắng thua (tức là lấy số bàn thắng ghi được trừ số bàn thua) là một trong những tiêu chí quan trọng để phân định thứ hạng khi có 2 hay nhiều đội bằng điểm nhau. Nếu điểm số các đội bằng điểm và hiệu số bàn thắng thua cũng bằng nhau thì xét tới số bàn thắng ghi được sẽ là tiêu chí tiếp theo. Tuy nhiên đôi khi cũng có thể áp dụng tiêu chí là đối đầu trực tiếp (như Premier league) hoặc đá play-off (như Serie A). Tỉ số bàn thắng bàn thua được áp dụng trước hiệu số bàn thắng thua. Cách tính tỉ số bàn thắng bàn thua là lấy số bàn thắng chia số bàn thua. Hiệu số bàn thắng thua được áp dụng từ Giải vô địch bóng đá thế giới 1970.

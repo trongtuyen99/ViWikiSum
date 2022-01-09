@@ -1,0 +1,4 @@
+keyword: UPC bổ sung 2 số
+url: https://vi.wikipedia.org/wiki/UPC_b%E1%BB%95_sung_2_s%E1%BB%91
+content:
+UPC bổ sung 2 số có thể là UPC-A, UPC-E (ngày nay còn có thêm cả EAN-13, EAN-8) với một mã vạch bổ sung ở bên phải của mã vạch chính. Nó được in bên phải và thấp hơn mã vạch chính. Mã vạch phụ này thông thường có các số in phía trên nó (nhưng cũng có thể in phía dưới như mã vạch chính), được sử dụng để mã hóa các thông tin bổ sung sử dụng trong báo chí và các ấn phẩm định kỳ khác. Người ta cũng có thể bổ sung loại mã vạch mã hóa thêm 5 số nhưng mục đích, cách thức mã hóa và lĩnh vực ứng dụng của chúng không giống với loại bổ sung 2 số.

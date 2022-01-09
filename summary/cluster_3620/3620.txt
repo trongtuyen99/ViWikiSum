@@ -1,0 +1,4 @@
+keyword: Màu cơ bản
+url: https://vi.wikipedia.org/wiki/M%C3%A0u_c%C6%A1_b%E1%BA%A3n
+content:
+Màu cơ bản là tập hợp các màu có thể kết hợp được với nhau để tạo ra dải màu hữu dụng. Trong các ứng dụng của con người, ba màu cơ bản thường được dùng, dạng màu mà mắt người nhìn thấy được đó là dạng ba màu. Các màu cơ bản, còn gọi là màu gốc hay màu sơ cấp, của một không gian màu là các màu sắc không thể tạo ra bằng cách trộn các màu khác trong phổ màu của không gian màu đó. Các màu gốc có thể được trộn với nhau để tạo ra mọi màu khác trong không gian màu của chúng. Nếu không gian màu là một không gian véctơ thì các màu gốc tạo nên hệ cơ sở của không gian đó. Pha màu theo phép cộng màu: là phương pháp pha trộn ánh sáng màu phát ra từ nguồn sáng. Pha màu theo phép trừ màu: là phương pháp hòa trộn màu trên bảng vẽ.

@@ -1,0 +1,4 @@
+keyword: Vé điện tử
+url: https://vi.wikipedia.org/wiki/V%C3%A9_%C4%91i%E1%BB%87n_t%E1%BB%AD
+content:
+Vé điện tử (tiếng Anh gọi là e-ticket) là một loại vé kỹ thuật số. Thuật ngữ này được dùng chủ yếu để nói về vé máy bay điện tử. Ngoài ra, vé điện tử còn được hiểu là vé tàu điện tử, vé điện thoại điện tử hay vé giải trí điện tử được dùng trong các ngành công nghiệp giải trí.

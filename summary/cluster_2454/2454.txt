@@ -1,0 +1,4 @@
+keyword: Xanh lơ
+url: https://vi.wikipedia.org/wiki/Xanh_l%C6%A1
+content:
+Màu xanh lơ (còn gọi là màu cánh chả hay màu hồ thủy hoặc xanh lục bảo) là một màu cơ bản trong quang phổ, nhưng một vài biến thể về sắc thái có thể tạo ra bằng cách trộn các lượng bằng nhau của ánh sáng màu xanh lá cây và màu xanh lam. Vì vậy, màu xanh lơ là màu bù của màu đỏ: các chất màu xanh lơ hấp thụ ánh sáng đỏ. Màu này đôi khi còn gọi là màu xanh Thổ (tuy rằng không đúng) và nó rất khó phân biệt dưới ánh sáng màu xanh lam. Mực màu xanh lơ là một trong các loại mực phổ biến sử dụng trong công nghệ in màu, cùng với mực màu hồng sẫm, vàng và đen; một bộ gồm bốn màu này được gọi là CMYK. Lưu ý rằng tuy gọi là mực xanh lơ nhưng mực xanh lơ và ánh sáng màu xanh lơ tạo ra cảm giác màu khác nhau. Mực màu xanh lơ tạo ra cảm giác màu ít chói hơn, thực tế công nghệ in CMYK không thể tái tạo chính xác màu xanh lơ thuần khiết (100% xanh lam + 100% xanh lá cây) trên giấy.

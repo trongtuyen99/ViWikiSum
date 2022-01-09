@@ -1,0 +1,4 @@
+keyword: Hàm số
+url: https://www.banhoituidap.com/p/509/
+content:
+Hàm số có thể được hiểu một cách đơn giản là một MỐI QUAN HỆ hay ÁNH XẠ giữa giá trị đầu vào và giá trị đầu ra. Một ví dụ đơn giản nhé, khi nấu ăn cụ thể là món rau muống xào tỏi, chúng ta có nguyên liệu đầu vào là rau muống nè, tỏi nè, ớt và một số gia vị nêm ném khác, . trải qua một hàm gọi là hàm chế biến, kết quả đầu ra khỏi hàm chế biến này là món rau muống thơm ngon. Hàm số trong toán học cũng tương tự như vậy, hàm số sẽ đóng vai trò là một nhà máy (tất nhiên mỗi nhà máy khác nhau sẽ cho ra những thành phẩm khác nhau). Hàm số thường được kí hiệu là f(x), với f là function có nghĩa là hàm, x là một giá trị đầu vào nào đó. Trong toán học có rất nhiều hàm số đặc biệt như hàm số bậc hai, hàm số bậc 3, . chắc chắn bạn sẽ gặp. Hạn chế ghi tắt, câu trả lời của bạn chỉ nên tập trung vào câu hỏi ở trên.

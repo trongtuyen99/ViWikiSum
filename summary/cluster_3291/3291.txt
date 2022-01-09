@@ -1,0 +1,4 @@
+keyword: Hàm số đại số
+url: https://vi.wikipedia.org/wiki/H%C3%A0m_s%E1%BB%91_%C4%91%E1%BA%A1i_s%E1%BB%91
+content:
+Trong toán học, hàm số đại số hay hàm đại số là một hàm số có thể được định nghĩa là nghiệm của phương trình đa thức. Các hàm đại số thường là sử dụng một số lượng các số hạng hữu hạn, chỉ liên quan đến các phép toán đại số cộng, trừ, nhân, chia và lũy thừa. Tuy nhiên, một số hàm đại số không thể được biểu thị bằng các biểu thức hữu hạn như vậy (đây là định lý Abel-Ruffini). trong đó các hệ số ai(x) là các đa thức của x, với các hệ số nguyên. Nó có thể được chỉ ra rằng cùng một tập hợp các hàm có được nếu các số đại số được cho phép làm các hệ số ai(x). Nếu các số siêu việt xuất hiện trong các hệ số hàm, nói chung thì hàm đó không còn là hàm đại số nữa, nhưng là hàm đại số trên trường do các hệ số trên tạo ra. Giá trị của hàm đại số tại một giá trị biến là số hữu tỷ, và nói chung, khi biến là một số đại số thì luôn luôn là một số đại số.

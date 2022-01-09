@@ -1,0 +1,4 @@
+keyword: Tích phân suy rộng
+url: https://voh.com.vn/hoc-tap/tim-hieu-ve-tich-phan-suy-rong-va-dieu-kien-hoi-tu-cua-tich-phan-suy-rong-337051.html
+content:
+Tích phân suy rộng là một trong những phần kiến thức rất quan trọng của toán cao cấp. Bài viết dưới đây sẽ giúp các bạn tìm hiểu về hơn về phần kiến thức này. Hiểu theo nghĩa thông thường tích phân suy rộng là giới hạn của tích phân xác định khi cho cận tích phân dần tới vô cùng. Tích phân suy rộng bao gồm 2 loại là tích phân suy rộng với cận vô hạn (tích phân suy rộng loại 1) và Tích phân suy rộng của hàm số không bị chặn (tích phân suy rộng loại 2). Trên đây là những kiến thức liên quan đến tích phân suy rộng, hy vọng sẽ giúp ích cho các bạn trong quá trình học tập. Chúc bạn ứng dụng giải toán thành công.

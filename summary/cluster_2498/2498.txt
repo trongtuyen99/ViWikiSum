@@ -1,0 +1,4 @@
+keyword: Từ quan hệ
+url: https://vi.wikipedia.org/wiki/T%E1%BB%AB_quan_h%E1%BB%87
+content:
+Trong ngôn ngữ học, một từ quan hệ là một loại liên từ giới thiệu một mệnh đề quan hệ. Ví dụ, trong tiếng Anh, từ kết hợp mà thể được coi là một từ quan hệ trong một câu như "Tôi có một thứ mà bạn có thể sử dụng." Từ quan hệ không phải lúc nào cũng xuất hiện, ít nhất là công khai, trong tất cả các ngôn ngữ; ngay cả trong các ngôn ngữ có công cụ tương đối công khai hoặc phát âm, chúng không nhất thiết phải xuất hiện mọi lúc. Vì những lý do này, người ta đã đề xuất rằng trong một số trường hợp, có thể có "từ quan hệ zero", nghĩa là một từ quan hệ được ngụ ý trong ngữ pháp nhưng không thực sự được chỉ rõ trong lời nói hoặc viết. Ví dụ, từ mà có thể được bỏ qua ở trên ví dụ tiếng Anh, sản xuất "Tôi có một thứ bạn có thể sử dụng", sử dụng (trên phân tích này) một từ quan hệ zero.

@@ -1,0 +1,4 @@
+keyword: Phối màu phát xạ
+url: https://vi.wikipedia.org/wiki/Ph%E1%BB%91i_m%C3%A0u_ph%C3%A1t_x%E1%BA%A1
+content:
+Phối màu phát xạ là việc tạo nên các màu sắc bằng cách chồng vào nhau ánh sáng phát ra từ vài nguồn sáng. Phối màu phát xạ còn được gọi là phối màu cộng, pha màu theo phép cộng, phối màu bổ sung, hay nôm na là phối màu màn hình, mặc dù phối màu màn hình có sự khác biệt nhất định với các cách gọi trên. James Clerk Maxwell được biết đến như người đầu tiên phối màu phát xạ. Ông nhờ nhà nhiếp ảnh Thomas Sutton chụp một dải băng màu ba lần, mỗi lần với một kính lọc màu khác nhau đặt trước ống kính. Ba bức ảnh được rửa và chiếu lên màn hình, sử dụng các kính cùng màu với lúc chụp. Khi chồng vào nhau, ba ảnh tạo nên một hình màu gần giống thật, cho thấy nguyên lý của phối màu phát xạ.

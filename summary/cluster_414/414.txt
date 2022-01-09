@@ -1,0 +1,4 @@
+keyword: Sắc ký lớp mỏng
+url: https://vi.wikipedia.org/wiki/S%E1%BA%AFc_k%C3%BD_l%E1%BB%9Bp_m%E1%BB%8Fng
+content:
+Sắc ký lớp mỏng (thin layer chromatography - TLC) là một kĩ thuật sắc ký được dùng để tách các chất trong hỗn hợp. Phương pháp sắc ký lớp mỏng bao gồm pha tĩnh là một lớp mỏng các chất hấp phụ, thường là silica gel, aluminium oxit, hoặc cellulose được phủ trên một mặt phẳng chất trơ. Pha động bao gồm dung dịch cần phân tích được hòa tan trong một dung môi thích hợp và được hút lên bản sắc ký bởi mao dẫn, tách dung dịch thí nghiệm dựa trên tính phân cực của các thành phần trong dung dịch. giám sát các phản ứng hữu cơMột số cải tiến có thể kết hợp phương pháp truyền thống để tự động hóa một vài bước, làm tăng độ dung giải của sắc ký lớp mỏng và cho số liệu chính xác hơn. Phương pháp này được gọi là sắc ký lớp mỏng hiệu năng cao (high performance TLC - HPTLC).

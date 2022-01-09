@@ -1,0 +1,4 @@
+keyword: Tỉ lệ thuận
+url: https://vi.wikipedia.org/wiki/T%E1%BB%89_l%E1%BB%87_thu%E1%BA%ADn
+content:
+Tỉ lệ thuận là mối tương quan giữa hai đại lượng x và y theo một hằng số k mà trong đó sự gia tăng về giá trị của đại lượng thứ nhất bao nhiêu lần luôn kéo theo sự gia tăng tương ứng về giá trị của đại lượng thứ hai bấy nhiêu lần, và ngược lại. (k hằng số khác 0) thì ta nói y tỉ lệ thuận với x theo hệ số tỉ lệ k.

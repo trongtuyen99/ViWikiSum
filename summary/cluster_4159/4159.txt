@@ -1,0 +1,4 @@
+keyword: Song đề tù nhân
+url: https://vi.wikipedia.org/wiki/Song_%C4%91%E1%BB%81_t%C3%B9_nh%C3%A2n
+content:
+Song đề tù nhân hay Thế tiến thoái lưỡng nan của người tù (Prisoner s Dilemma) là một trò chơi có tổng không bằng không (non-zero sum) trong lý thuyết trò chơi (game theory). Hình thể đơn giản nhất của trò chơi có hai người chơi (gọi là tù nhân), mỗi người đều muốn giành thuận lợi cho mình, bất chấp tình trạng của người kia. Kết quả của trò chơi này không tối ưu. Nếu hai người đều hợp tác với nhau thì kết quả sẽ tốt nhất, nhưng mỗi người đều có động cơ để đào ngũ. Vì thế trò này mới được gọi là song đề. Một thể khác của trò chơi này, được gọi là Song đề tù nhân lặp lại (Iterated Prisoner s Dilemma), cho phép những người chơi lặp lại nhiều trận. Như thế, mỗi người chơi có cơ hội "trừng phạt" người kia nếu họ không hợp tác trong các trận trước. Kết quả của trò này là cả hai đều hợp tác vì động cơ để ăn gian bị mối đe dọa trừng phạt khống chế.

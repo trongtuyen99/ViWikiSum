@@ -1,0 +1,4 @@
+keyword: Hệ thống rời rạc
+url: https://vi.wikipedia.org/wiki/H%E1%BB%87_th%E1%BB%91ng_r%E1%BB%9Di_r%E1%BA%A1c
+content:
+Hệ thống rời rạc là một hệ thống có lượng trạng thái đếm được. Hệ thống rời rạc có thể đối lập với hệ thống liên tục (còn gọi là hệ thống tương tự). Một hệ thống rời rạc chung cuộc thường được mô phỏng qua một đồ thị trực tiếp và được phân tích tính đúng đắn và độ phức tạp dựa theo lý thuyết tính toán. Bởi hệ thống rời rạc có lượng trạng thái đếm được, nó có thể được mô tả bằng các mô hình toán học chính xác. Máy tính là máy trạng thái hữu hạn mà có thể xem là một hệ thống rời rạc. Bởi vì máy tính không chỉ thường dùng để mô hình hóa các hệ thống rời rạc khác mà còn các hệ thống liên tục, các phương pháp đã được phát triển để đại diện các hệ thống liên tục trong thế giới thực dựa trên các hệ thống rời rạc. Một trong những phương pháp này liên quan đến việc lấy mẫu một tín hiệu liên tục trên khoảng thời gian rời rạc.

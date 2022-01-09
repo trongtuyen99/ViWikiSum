@@ -1,0 +1,4 @@
+keyword: Tốc độ phản ứng
+url: https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%E1%BA%ADc%20ph%E1%BA%A3n%20%E1%BB%A9ng
+content:
+đại lượng đặc trưng mức độ phụ thuộc của tốc độ phản ứng vào nồng độ các chất tham gia phản ứng. BPƯ bằng tổng số mũ của nồng độ các chất tham gia phản ứng trong phương trình tốc độ phản ứng viết ở dạng hàm số mũ theo nồng độ. 1: v = kCA; ở đây, v là tốc độ phản ứng; k – hằng số tốc độ; CA – nồng độ chất A tham gia phản ứng; số mũ bằng 1 thì phản ứng là bậc 1. 3: tổng số mũ là 3/4, phản ứng có bậc phân số là 3/4. Định luật tác dụng khối lượng.

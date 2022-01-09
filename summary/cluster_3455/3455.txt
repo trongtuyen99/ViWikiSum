@@ -1,0 +1,4 @@
+keyword: Bảng cửu chương
+url: https://vi.wikipedia.org/wiki/B%E1%BA%A3ng_c%E1%BB%ADu_ch%C6%B0%C6%A1ng
+content:
+Bảng cửu chương, là một bản ghi lại nội dung Phép nhân của các số từ 1 đến n, với n thường là 9 hay là 12. Nó là một phần bắt buộc học thuộc của học sinh tại nhiều nơi trên thế giới để có thể tính nhẩm nhanh các bài toán nhân đơn giản, cũng như có thể tính toán (không cần máy tính trợ giúp) các phép nhân phức tạp. Ở một số nước, "bảng cửu chương" không dừng lại ở 9 mà nó gồm 12 hàng và cột. Do thế giới dùng hệ đếm cơ số 10, nhiều nhà giáo dục cho rằng học sinh cần học thuộc bảng cửu chương 9 x 9.

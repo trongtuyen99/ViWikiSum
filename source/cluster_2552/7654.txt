@@ -1,0 +1,4 @@
+keyword: Tỉ lệ thuận
+url: https://hoidaptructuyen.vn/cau-hoi/dai-luong-ti-le-thuan-la-gi-vay-moi-nguoi/
+content:
+Tỉ lệ thuận là mối tương quan giữa hai đại lượng x và y mà trong đó sự gia tăng về giá trị của đại lượng x bao nhiêu lần luôn kéo theo sự gia tăng tương ứng về giá trị của đại lượng y bấy nhiêu lần, và ngược lại. Trong toán học thì đại lượng tỉ lệ thuận trái ngược với đại lượng tỉ lệ nghịch. Nếu một đại lượng y liên hệ với một đại lượng x theo công thức: y = k.x (k hằng số khác 0) thì ta nói y tỉ lệ thuận với x theo hệ số tỉ lệ k. Tỉ số hai giá trị bất kỳ của đại lượng này bằng tỉ số hai giá trị tương ứng của đại lượng kia. Cho biết đại lượng x và y tỉ lệ thuận với nhau và khi x = 6 thì y = 4. Hỏi hệ số tỉ lệ k của y so với x. Để tìm giá trị y khi biết được k và x ta cũng áp dụng công thức.

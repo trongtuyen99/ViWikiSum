@@ -1,0 +1,4 @@
+keyword: Cắt bằng laser
+url: https://vi.wikipedia.org/wiki/C%E1%BA%AFt_b%E1%BA%B1ng_laser
+content:
+Cắt bằng laser là kĩ thuật dùng laser để cắt vật liệu, và dùng trong công nghiệp sản xuất. Cắt bằng laser là chiếu laser có cường độ sáng cao vào vật liệu cần cắt. Vật liệu có thể bị chảy ra, cháy hay bốc hơi để lại cạnh cắt với chất lượng bề mặt tốt. Máy cắt laser công nghiệp dùng để cắt vật liệu tấm phẳng cũng như cấu trúc hay ống. Một vài laser 6-trục có thể thực hiện cắt lên phần đã được tạo hình trước bằng cách đúc hay chế tạo cơ khí. Cắt bằng laser quang học di động thường dựa trên bàn trục X và Y cố định nơi mà tia laser di chuyển theo cả hai hướng nằm ngang. Kiểu cắt này phổ biến với giá rẻ vì bàn cắt cố định. Một số máy cắt theo trục Y (bàn trục có khả năng di chuyển theo chiều Y). Các tia laser xung cung cấp cường độ sáng cao trong khoảng thời gian ngắn, nên rất hiệu quả trong một số quá trình cắt laser.

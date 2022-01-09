@@ -1,0 +1,4 @@
+keyword: Sóng vô tuyến
+url: https://vi.wikipedia.org/wiki/S%C3%B3ng_v%C3%B4_tuy%E1%BA%BFn
+content:
+Sóng vô tuyến (tiếng Anh: radio wave, gọi tắt là radio) là một kiểu bức xạ điện từ với bước sóng trong phổ điện từ dài hơn vi sóng (vi ba). Sóng vô tuyến có tần số từ 3 kHz tới 300 GHz, tương ứng bước sóng từ 100 km tới 1 mm. Giống như các sóng điện từ khác, chúng truyền với vận tốc ánh sáng. Sóng vô tuyến xuất hiện tự nhiên do sét, hoặc bởi các đối tượng thiên văn. Sóng vô tuyến do con người tạo nên dùng cho radar, phát thanh, liên lạc vô tuyến di động và cố định, thông tin vệ tinh, các mạng máy tính, các hệ thống dẫn đường khác, và nhiều ứng dụng khác. Các tần số khác nhau của sóng vô tuyến có đặc tính truyền lan khác nhau trong khí quyển Trái Đất; sóng dài truyền theo đường cong của Trái Đất, sóng ngắn nhờ phản xạ từ tầng điện ly nên có thể truyền rất xa, các bước sóng ngắn hơn bị phản xạ yếu hơn và truyền trên đường nhìn thẳng.

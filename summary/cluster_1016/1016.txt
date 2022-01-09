@@ -1,0 +1,4 @@
+keyword: Thiết bị trao đổi nhiệt
+url: https://vi.wikipedia.org/wiki/Thi%E1%BA%BFt_b%E1%BB%8B_trao_%C4%91%E1%BB%95i_nhi%E1%BB%87t
+content:
+Thiết bị trao đổi nhiệt là thiết bị được sử dụng để trao đổi nhiệt giữa một hay nhiều chất tải nhiệt. Những chất tải nhiệt có thể được ngăn cách bằng các tấm (plate) để ngăn sự pha trộn hoặc tiếp xúc trực tiếp giữa các chất tải nhiệt. Những thiết bị này thường được sử dụng trong thiết bị sưởi ấm, tủ lạnh, điều hòa, nhà máy năng lượng, nhà máy hóa chất, nhà máy hóa dầu, nhà máy lọc dầu, khu chế tạo khí thiên nhiên, và xử lý chất thải. Một ví dụ điển hình của thiết bị trao đổi nhiệt có thể thấy trong động cơ đốt trong có một chu kỳ chất lỏng được biết như hệ thống làm mát chảy dọc ống tản nhiệt và không khí sẽ được thổi vào làm mát nước.

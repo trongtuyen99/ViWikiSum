@@ -1,0 +1,4 @@
+keyword: Bức xạ nhiệt
+url: https://vi.wikipedia.org/wiki/B%E1%BB%A9c_x%E1%BA%A1_nhi%E1%BB%87t
+content:
+Bức xạ nhiệt là bức xạ điện từ được tạo ra bởi chuyển động nhiệt của các hạt điện tích trong vật chất. Tất cả các vật chất với nhiệt độ lớn hơn độ không tuyệt đối đều phát ra bức xạ nhiệt. Khi nhiệt độ của vật lớn hơn độ không tuyệt đối thì sự va chạm giữa các nguyên tử hoạt động làm thay đổi động năng của các nguyên tử hoặc phân tử. Điều này dẫn đến làm tăng tốc điện tích và/hoặc gây dao động lưỡng cực, từ đó sản sinh ra bức xạ điện từ và độ rộng phổ của bức xạ tương ứng với độ rộng phổ của năng lượng và gia tốc ở một nhiệt độ nhất định. Nếu một vật phát ra bức xạ đáp ứng các đặc tính vật lý của vật đen ở trạng thái cân bằng nhiệt động lực học, các bức xạ được gọi là bức xạ vật đen. Định luật Planck mô tả quang phổ của bức xạ vật đen chỉ phụ thuộc vào nhiệt độ của vật.

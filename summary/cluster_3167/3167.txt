@@ -1,0 +1,4 @@
+keyword: Phần mềm kế toán
+url: https://vi.wikipedia.org/wiki/Ph%E1%BA%A7n_m%E1%BB%81m_k%E1%BA%BF_to%C3%A1n
+content:
+Phần mềm kế toán là một hệ thống được tổ chức dưới dạng chương trình máy tính. Khi thực hiện phần mềm mang lại các báo cáo tài chính, báo cáo chi tiết theo quy định hiện hành của kế toán doanh nghiệp. Phần mềm có nhiều dạng và giá thành khác nhau. Phần mềm kế toán nhập số liệu đầu vào là các chứng từ, số liệu do người dùng nhập, hoặc nhập vào, dựa vào các thủ tục, quy trình có sẵn phần mềm kế toán sẽ xử lý và đưa ra các báo cáo một cách chính xác và hiệu quả, giúp người dùng tiết kiệm thời gian và chi phí.

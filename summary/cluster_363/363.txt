@@ -1,0 +1,4 @@
+keyword: Hàng hóa thông thường
+url: https://vi.wikipedia.org/wiki/H%C3%A0ng_h%C3%B3a_th%C3%B4ng_th%C6%B0%E1%BB%9Dng
+content:
+Hàng hóa thông thường (tiếng Anh: Normal good) là thuật ngữ kinh tế học chỉ những hàng hóa có cầu tăng lên khi thu nhập của người tiêu dùng tăng lên và cầu giảm khi thu nhập giảm trong khi các yếu tố khác không đổi. Trái ngược với hàng hóa thông thường là hàng hóa thứ cấp, tức cầu giảm khi thu nhập tăng hoặc ngược lại. Trong hình bên dưới, cầu hàng hóa thông thường Y tăng từ Y1 lên Y2 khi chế ước ngân sách dịch chuyển từ BC1 sang BC2 (giá giữ nguyên).

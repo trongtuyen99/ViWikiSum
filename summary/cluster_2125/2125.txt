@@ -1,0 +1,4 @@
+keyword: Tỷ lệ nợ trên GDP
+url: https://vi.wikipedia.org/wiki/T%E1%BB%B7_l%E1%BB%87_n%E1%BB%A3_tr%C3%AAn_GDP
+content:
+Trong kinh tế học, Tỷ lệ nợ trên GDP là tỷ lệ giữa nợ chính phủ của một quốc gia (tính bằng đơn vị tiền tệ) và tổng sản phẩm quốc nội (GDP) (tính theo đơn vị tiền tệ mỗi năm). Tỷ lệ nợ trên GDP thấp cho thấy một nền kinh tế sản xuất và bán hàng hóa và dịch vụ đủ để trả nợ mà không phải chịu thêm nợ. Cân nhắc địa chính trị và kinh tế - bao gồm lãi suất, chiến tranh, suy thoái và các biến số khác - ảnh hưởng đến các hoạt động vay mượn của một quốc gia và lựa chọn phát sinh thêm nợ.

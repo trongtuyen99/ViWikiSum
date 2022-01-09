@@ -1,0 +1,4 @@
+keyword: Lập trình logic
+url: https://vi.wikipedia.org/wiki/L%E1%BA%ADp_tr%C3%ACnh_logic
+content:
+Lập trình logic là một mẫu hình lập trình dựa trên logic toán trong các mối quan hệ và các suy luận. Các chương trình được viết trong các Ngôn ngữ lập trình logic là các tập hợp câu logic, thể hiện sự thật và các luật về một vài vùng vấn đề nào đó. Cùng với các thuật toán suy luận, chúng hình thành nên chương trình. Các lập trình logic chính bao gồm Prolog và Datalog.

@@ -1,0 +1,4 @@
+keyword: Gia tốc
+url: https://vi.wikipedia.org/wiki/Gia_t%E1%BB%91c
+content:
+Gia tốc là đại lượng vật lý đặc trưng cho sự thay đổi của vận tốc theo thời gian. Nó là một trong những đại lượng cơ bản dùng để mô tả chuyển động. Cũng như vận tốc, gia tốc là đại lượng hữu hướng (vector). Thứ nguyên của gia tốc là độ dài trên bình phương thời gian. Trong hệ đơn vị quốc tế SI, gia tốc có đơn vị là m/s² (mét trên giây bình phương, nghĩa là m/s mỗi giây).

@@ -1,0 +1,4 @@
+keyword: Chi phí bình quân
+url: https://vi.wikipedia.org/wiki/Chi_ph%C3%AD_b%C3%ACnh_qu%C3%A2n
+content:
+Trong kinh tế học, chi phí trung bình và/hoặc chi phí đơn vị bằng tổng chi phí (TC) chia cho số lượng hàng hóa được sản xuất (số lượng đầu ra, Q). Nó cũng bằng tổng chi phí biến đổi trung bình (tổng chi phí biến đổi chia cho Q) cộng với chi phí cố định trung bình (tổng chi phí cố định chia cho Q). Chi phí trung bình có thể phụ thuộc vào khoảng thời gian được xem xét (ví dụ: tăng sản xuất có thể tốn kém hoặc không thể trong ngắn hạn). Chi phí trung bình ảnh hưởng đến đường cung và là một thành phần cơ bản của quan hệ cung và cầu.

@@ -1,0 +1,4 @@
+keyword: Hàng hóa thứ cấp
+url: https://vi.wikipedia.org/wiki/H%C3%A0ng_h%C3%B3a_th%E1%BB%A9_c%E1%BA%A5p
+content:
+Hàng hóa thứ cấp (tiếng Anh: Inferior good) là một thuật ngữ kinh tế học chỉ những loại hàng hóa có cầu giảm khi thu nhập người tiêu dùng tăng, hoặc cầu tăng khi thu nhập giảm trong khi các yếu tố khác không đổi. Trái ngược với hàng hóa thứ cấp là hàng hóa thông thường. Trong hình bên dưới, cầu hàng hóa thứ cấp X giảm từ X1 xuống X2 khi chế ước ngân sách chuyển dịch từ BC1 sang BC2 (giá cả hàng hóa không đổi).

@@ -1,0 +1,4 @@
+keyword: Ma trận hiệp phương sai
+url: https://vietnamfinance.vn/hiep-phuong-sai-la-gi-20180504224209626.htm
+content:
+Trong đó Xi và Yi là kết quả quan sát thứ i của biến số X và Y; và là số bình quân mẫu của chúng; và N là số kết quả quan sát trong mẫu điều tra. Hiệp phương sai có thể âm hoặc dương, phản ánh mối quan hệ thuận hay nghịch giữa hai biến số. Giá trị tuyệt đối của đồng phương sai càng nhỏ, độ mạnh (mức độ chặt chẽ) của mối quan hệ càng thấp. Đồng phương sai giữa hai biến số là yếu tố quyết định hệ số tương quan mô men tích giữ chúng. Ma trận hiệp phương sai (covariance matrix) của tập hợp m biến ngẫu nhiên là một ma trận vuông hạng (m × m), trong đó các phần tử nằm trên đường chéo (từ trái sang phải, từ trên xuống dưới) lần lượt là phương sai tương ứng của các biến này (ta chú ý rằng Var(X) = Cov(X,X)), trong khi các phần tử còn lại (không nằm trên đường chéo) là các hiệp phương sai của đôi một hai biến ngẫu nhiên khác nhau trong tập hợp.

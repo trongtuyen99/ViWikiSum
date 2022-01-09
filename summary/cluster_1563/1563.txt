@@ -1,0 +1,4 @@
+keyword: Xử lý đơn hàng
+url: https://vi.wikipedia.org/wiki/X%E1%BB%AD_l%C3%BD_%C4%91%C6%A1n_h%C3%A0ng
+content:
+Xử lý đơn hàng là quy trình hoặc quy trình công việc liên quan đến việc chọn, đóng gói và giao các mặt hàng được đóng gói cho một hãng vận chuyển. Xử lý đơn hàng là một yếu tố quan trọng của việc thực hiện đơn hàng. Các hoạt động xử lý đơn hàng hoặc cơ sở thường được gọi là " trung tâm phân phối ".

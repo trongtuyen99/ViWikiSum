@@ -1,0 +1,4 @@
+keyword: Kỹ sư phần mềm
+url: https://vi.wikipedia.org/wiki/K%E1%BB%B9_s%C6%B0_ph%E1%BA%A7n_m%E1%BB%81m
+content:
+Kỹ sư phần mềm (tiếng Anh: software engineer) là người áp dụng các nguyên tắc/nguyên lý của công nghệ phần mềm vào việc thiết kế, phát triển, bảo trì, kiểm thử, và đánh giá phần mềm và hệ thống khiến máy tính hay bất cứ thứ gì chứa phần mềm đó sẽ hoạt động. Trước giữa những năm 1970, các chuyên gia phần mềm tự gọi họ là chuyên viên khoa học máy tính, lập trình viên hay nhà phát triển phần mềm bất kể công việc thực tế của họ là gì. Nhiều người thích tự gọi mình là nhà phát triển phần mềm và lập trình viên, bởi vì hầu hết đều đồng ý với ý nghĩa của những thuật ngữ này, trong khi kỹ sư phần mềm vẫn đang bị tranh cãi. Ở nhiều công ty, tên gọi lập trình viên và nhà phát triển phần mềm được đổi sang kỹ sư phần mềm, cho nhiều loại lập trình viên.

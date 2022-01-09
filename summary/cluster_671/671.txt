@@ -1,0 +1,4 @@
+keyword: Quang phổ kế
+url: https://vi.wikipedia.org/wiki/Quang_ph%E1%BB%95_k%E1%BA%BF
+content:
+Quang phổ kế (Spectrophotometer) là các thiết bị hoạt động dựa trên phân tích quang phổ của ánh sáng, nhằm thu được các thông tin về thành phần, tính chất hay trạng thái của những khối vật chất liên quan đến chùm ánh sáng đó. Phân tích quang phổ là phương pháp hàng đầu trong hóa phân tích. Thông thường thì Quang phổ kế xác định phân bố cường độ ánh sáng theo bước sóng của ánh sáng do khối vật chất nào đó tự phát ra, hoặc phản xạ hay truyền qua nó. Những khối vật chất khác nhau có đặc tính phát quang hay hấp thụ ánh sáng với các bước sóng, hay mức năng lượng của photon, xác định. Chúng thường được nói đến là các vạch quang phổ. Đo cường độ ánh sáng ở các bước sóng (hay các vạch phổ) đặc trưng này cho phép xác định tỷ lệ (hay hàm lượng) của chất tương ứng trong mẫu vật cần nghiên cứu.

@@ -1,0 +1,4 @@
+keyword: Đạo hàm riêng
+url: https://vietnamfinance.vn/dao-ham-rieng-va-dao-ham-rieng-cheo-la-gi-20180504224209367.htm
+content:
+Trong toán học, đạo hàm riêng (partial derivative) của một hàm số đa biến là đạo hàm theo một biến, các biến khác được xem như là hằng số(khác với đạo hàm toàn phần, khi tất cả các biến đều biến thiên). Đạo hàm riêng được sử dụng trong giải tích vector và hình học vi phân. Ví dụ sau sẽ giúp giải thích định nghĩa của đạo hàm riêng theo biến y.Giả sử một hàm theo hai biến x,y được xem như là một họ các hàm theo y được đánh số theo x. Đạo hàm riêng chéo (cross partial derivative) là đạo hàm của một hàm tính cho một biến số độc lập, sau đó tiếp tục tính cho các biến độc lập khác. Chẳng hạn đối với hàm hai biến: Y=f(X,Z) có đạo hàm riêng chéo như sau:. Nhìn chung, việc chọn cách lấy đạo hàm của biến độc lập nào trước không quan trọng.

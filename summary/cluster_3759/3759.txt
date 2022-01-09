@@ -1,0 +1,4 @@
+keyword: Cấp số nhân
+url: https://vi.wikipedia.org/wiki/C%E1%BA%A5p_s%E1%BB%91_nh%C3%A2n
+content:
+Trong toán học, một cấp số nhân (tiếng Anh: geometric progression hoặc geometric sequence) là một dãy số thoả mãn điều kiện kể từ số hạng thứ hai, mỗi số hạng đều là tích của số hạng đứng ngay trước nó với một số không đổi. Hằng số này được gọi là công bội của cấp số nhân. trong đó r là công bội và a là số hạng đầu tiên.

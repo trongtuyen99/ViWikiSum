@@ -1,0 +1,4 @@
+keyword: Tỷ số vòng eo trên vòng mông
+url: https://vi.wikipedia.org/wiki/T%E1%BB%B7_s%E1%BB%91_v%C3%B2ng_eo_tr%C3%AAn_v%C3%B2ng_m%C3%B4ng
+content:
+Tỷ số vòng eo trên vòng mông hay tỷ số eo trên mông, là giá trị của phép chia giữa số đo chu vi vòng eo và số đo chu vi vòng mông (tại vị trí lớn nhất có thể của vòng mông). Khái niệm và ý nghĩa của tỷ số này được nhà tâm lý học tiến hóa Devendra Singh thuộc Đại học Texas ở Austin đưa ra vào năm 1993. Để đo chính xác các thông số, bụng phải để ở trạng thái tự nhiên (không phình hoặc thóp bụng) và tốt nhất là đo trực tiếp trên da (không đo qua quần áo).

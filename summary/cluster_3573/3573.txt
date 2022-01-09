@@ -1,0 +1,4 @@
+keyword: Tỷ lệ hoàn vốn kế toán
+url: https://vi.wikipedia.org/wiki/T%E1%BB%B7_l%E1%BB%87_ho%C3%A0n_v%E1%BB%91n_k%E1%BA%BF_to%C3%A1n
+content:
+Tỷ lệ hoàn vốn kế toán, còn được gọi là tỷ lệ hoàn vốn trung bình hoặc ARR là một tỷ lệ tài chính được sử dụng trong lập ngân sách vốn. Tỷ lệ này không đưa vào tài khoản các khái niệm về giá trị thời gian của tiền. ARR tính toán hoàn vốn, được tạo ra từ thu nhập ròng của vốn đầu tư đề xuất. ARR là một tỷ lệ phần trăm hoàn vốn. Như vậy, nếu ARR = 7%, thì nó có nghĩa là dự án được dự kiến sẽ kiếm được bảy xu của mỗi đô la đầu tư. Nếu ARR là bằng hoặc lớn hơn mức hoàn vốn yêu cầu, dự án có thể chấp nhận được. Nếu nó ít hơn mức mong muốn, nó sẽ bị từ chối. Khi so sánh đầu tư, ARR cao hơn, hấp dẫn đầu tư hơn Quá nửa các công ty lớn tính toàn ARR khi thẩm định các dự án.

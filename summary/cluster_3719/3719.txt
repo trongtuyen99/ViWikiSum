@@ -1,0 +1,4 @@
+keyword: Tiền cơ sở
+url: https://vi.wikipedia.org/wiki/Ti%E1%BB%81n_c%C6%A1_s%E1%BB%9F
+content:
+Tiền cơ sở là thuật ngữ kinh tế chỉ loại tiền có mức độ thanh khoản cao nhất trong các thành phần của cung tiền. Tiền cơ sở bao gồm tiền mặt trong lưu thông do các cá nhân (hộ gia đình và doanh nghiệp không phải ngân hàng nắm giữ) và dự trữ bắt buộc của ngân hàng thương mại tại ngân hàng trung ương. Đối với các loại tiền hàng hóa (như vàng hay Bitcoin), lượng tiền cơ sở ám chỉ toàn bộ lượng hàng hóa này và không bao gồm chứng chỉ thay thế. Mọi sự thay đổi của lượng tiền cơ sở đều là tác nhân quan trọng gây ra thay đổi trong tổng lượng cung tiền. Chính vì vậy, tiền cơ sở còn được gọi là tiền có mãnh lực.

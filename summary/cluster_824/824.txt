@@ -1,0 +1,4 @@
+keyword: Loa siêu trầm
+url: https://vi.wikipedia.org/wiki/Loa_si%C3%AAu_tr%E1%BA%A7m
+content:
+Loa siêu trầm (tiếng Anh:subwoofer) là một loa hoặc là một hệ thống loa trầm có nhiệm vụ thể hiện âm trầm có tần số từ 150 Hz đến 20 Hz. Có thể hiểu nghĩa từ sub là bên dưới và woofer là âm trầm nên người Việt gọi là loa "siêu trầm". "Sub hơi" là loa không có bộ khuếch đại âm thanh riêng và được lấy tín hiệu từ một âm ly như các loa bình thường khác. "Sub điện" là loại có bộ khuếch đại âm thanh riêng bên trong nó, mặt khác có bộ cắt tần số để loại bỏ các âm có tần số cao để nó chỉ thể hiện giải tần số âm thanh như đã nêu ở trên.

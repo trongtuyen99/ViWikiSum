@@ -1,0 +1,4 @@
+keyword: Thanh khoản (tài chính)
+url: https://vi.wikipedia.org/wiki/Thanh_kho%E1%BA%A3n_(t%C3%A0i_ch%C3%ADnh)
+content:
+Bài này viết về tính thanh khoản trong tài chính. Về thanh khoản trong các lĩnh vực khác, xem Thanh khoản. Tính thanh khoản, một khái niệm trong tài chính, chỉ mức độ mà một tài sản bất kì có thể được mua hoặc bán trên thị trường mà không làm ảnh hưởng nhiều đến giá thị trường của tài sản đó. Một tài sản có tính thanh khoản cao nếu nó có thể được bán nhanh chóng mà giá bán không giảm đáng kể , thường được đặc trưng bởi số lượng giao dịch lớn. Ví dụ, tiền mặt có tính thanh khoản cao, vì nó thường có thể được "bán" (để đổi lấy hàng hóa) với giá trị gần như không thay đổi. Chứng khoán hay các khoản nợ, khoản phải thu. có tính thanh khoản cao nếu chúng khả năng đổi thành tiền mặt dễ dàng. Cách gọi thay thế cho tính thanh khoản là tính lỏng, tính lưu động.

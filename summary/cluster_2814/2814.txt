@@ -1,0 +1,4 @@
+keyword: Kiểu dữ liệu
+url: https://vi.wikipedia.org/wiki/Ki%E1%BB%83u_d%E1%BB%AF_li%E1%BB%87u
+content:
+Trong khoa học máy tính và lập trình máy tính, một kiểu dữ liệu (tiếng Anh: data type) hay đơn giản type là một cách phân loại dữ liệu cho trình biên dịch hoặc thông dịch hiểu các lập trình viên muốn sử dụng dữ liệu. Hầu hết các ngôn ngữ hỗ trợ nhiều kiểu dữ liệu khác nhau, như số thực, số nguyên hay Boolean. Một kiểu dữ liệu cung cấp một bộ các giá trị mà từ đó một biểu thức (ví dụ như biến, hàm.) có thể lấy giá trị của nó. Kiểu định nghĩa các toán tử có thể được thực hiện trên dữ liệu của nó, ý nghĩa của dữ liệu, và cách mà giá trị của kiểu có thể được lưu trữ.

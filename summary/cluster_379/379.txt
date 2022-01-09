@@ -1,0 +1,4 @@
+keyword: Sản xuất điện năng
+url: https://vi.wikipedia.org/wiki/S%E1%BA%A3n_xu%E1%BA%A5t_%C4%91i%E1%BB%87n_n%C4%83ng
+content:
+Sản xuất điện năng là giai đoạn đầu tiên trong quá trình cung cấp điện năng đến người tiêu dùng, các giai đoạn tiếp theo là truyền tải và phân phối điện năng. Thực chất của sản xuất điện năng là sự biến đổi các dạng năng lượng khác sang năng lượng điện hay điện năng, dòng điện xuất hiện sau khi lưới điện được nối với mạng tiêu thụ. Điện năng được sản xuất ra theo nhiều cách khác nhau, phần lớn được sản xuất bởi các máy phát điện tại các nhà máy điện, chúng có chung nguyên tắc hoạt động là các nguyên lý động điện (định luật cảm ứng điện của Michael Faraday), các hình thức khác như trong pin, ắc quy, pin nhiên liệu hay từ năng lượng mặt trời,.

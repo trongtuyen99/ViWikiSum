@@ -1,0 +1,4 @@
+keyword: Cấp phối bê tông
+url: https://vi.wikipedia.org/wiki/C%E1%BA%A5p_ph%E1%BB%91i_b%C3%AA_t%C3%B4ng
+content:
+Cấp phối bê tông là tỷ lệ thành phần các vật liệu cho 1m³ bê tông. Cấp phối bê tông phụ thuộc vào mác bê tông, kích thước cốt liệu, chất kết dính, thành phần phụ gia. Với bê tông thường cấp phối bê tông thường được hiểu là tỷ lệ các thành phần: xi măng (kg), đá (m³), cát (m³), nước (lit) cho 1m³ bê tông. Để có được cấp phối bê tông người ta phải tiến hành thí nghiệm nhiều lần với các tỷ lệ thành phần khác nhau để có được tỷ lệ thích hợp cho từng mác bê tông khác nhau. Cũng tương tự như thế các nhà sản xuất xi măng, chất phụ gia cũng cung cấp một cấp phối tham khảo cho từng loại xi măng áp dụng, từng loại phụ gia áp dụng.

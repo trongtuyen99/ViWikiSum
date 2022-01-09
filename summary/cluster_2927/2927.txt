@@ -1,0 +1,4 @@
+keyword: Bột thủy canh
+url: https://vi.wikipedia.org/wiki/B%E1%BB%99t_th%E1%BB%A7y_canh
+content:
+Bột thủy canh là một biến thể của dung dịch thủy canh Hoagland và được phối trộn ở dạng rắn. Bột thủy canh chứa đầy đủ các chất dinh dưỡng cần thiết cho sự sinh trưởng và phát triển của cây trồng. Bột thủy canh được phát triển nhằm thay thế dung dịch thủy canh A+B.

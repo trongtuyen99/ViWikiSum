@@ -1,0 +1,4 @@
+keyword: Năng lượng liên kết hạt nhân
+url: https://xn--xm-mia.vn/dinh-nghia-nang-luong-lien-ket-hat-nhan-va-cong-thuc-tinh/
+content:
+Năng lượng liên kếtlà khái niệm về một loại năng lượng xuất hiện trong vật lý hạt nhân, cụ thể hơn đó là năng lượng liên kết của hạt nhân. Theo đó, năng lượng liên kết hạt nhân là nguồn năng lượng tỏa ra tương ứng với độ hụt khối của hạt nhân. Khi một hạt nhân được tạo thành từ các nucleon, cần một năng lượng (W) và ngược lại, khi muốn phá vỡ một hạt nhân thành các nucleon cũng cần tốn một năng lượng là (W), lượng năng lượng này gọi là năng lượng liên kết của các nucleon trong hạt nhân. Ta thay công thức tính độ hút khối của hạt nhân (Delta m) = Z.(m) + N.(m) – m vào công thức này sẽ được:. Năng lượng liên kết riêng của hạt nhân là năng lượng liên kết tính cho một nuclon. Đơn vị: Đơn vị của năng lượng liên kết riêng là MeV/nuclon. Để giản tiện, với một vài trường hợp thì người ta có thể ghi đơn vị của năng lượng liên kết riêng là MeV.

@@ -1,0 +1,4 @@
+keyword: Chi phí hàng năm tương đương
+url: https://vi.wikipedia.org/wiki/Chi_ph%C3%AD_h%C3%A0ng_n%C4%83m_t%C6%B0%C6%A1ng_%C4%91%C6%B0%C6%A1ng
+content:
+Trong tài chính, chi phí hằng năm tương đương (EAC) là chi phí cho mỗi năm sở hữu và vận hành một tài sản qua toàn bộ vòng đời của nó. EAC thường được sử dụng như một công cụ ra quyết định trong lập ngân sách vốn khi so sánh các dự án đầu tư có vòng đời không bằng nhau. EAC được tính bằng cách chia NPV của một dự án cho "giá trị hiện tại của niên kim". Tương tự, NPV của dự án có thể được nhân với số nhân trả nợ vay. Việc sử dụng phương pháp EAC ngụ ý rằng dự án có thể bị thay thế bởi một dự án tương tự.

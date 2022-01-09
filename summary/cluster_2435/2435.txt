@@ -1,0 +1,4 @@
+keyword: Số nửa nguyên tố
+url: https://vi.wikipedia.org/wiki/S%E1%BB%91_n%E1%BB%ADa_nguy%C3%AAn_t%E1%BB%91
+content:
+Trong toán học, số nửa nguyên tố (tiếng Anh: semiprime, còn gọi là biprime, 2-almost prime, hoặc số pq) là số tự nhiên được tạo thành từ tích của hai số nguyên tố (không nhất thiết phân biệt). Một vài số nửa nguyên tố đầu tiên là 4, 6, 9, 10, 14, 15, 21, 22, 25, 26,. (dãy số A001358 trong bảng OEIS). Tính đến năm 2008, số nửa nguyên tố lớn nhất được biết đến là (243.112.609 − 1)2, với hơn 25 triệu chữ số. Nó là bình phương của số nguyên tố lớn nhất được biết. Bình phương của bất kì số nguyên tố nào cũng đều là số nửa nguyên tố, do đó số nửa nguyên tố tiếp theo được biết đến vẫn sẽ là bình phương của số nguyên tố lớn nhất được biết, trừ khi tìm ra được một phương pháp khẳng định một số lớn là số nửa nguyên tố mà không cần biết hai nhân tử của nó. φ(n) = (p − 1) (q − 1) = p q − (p + q) + 1 = n − (p + q) + 1.

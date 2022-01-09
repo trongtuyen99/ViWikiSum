@@ -1,0 +1,4 @@
+keyword: Siêu âm tim
+url: https://vi.wikipedia.org/wiki/Si%C3%AAu_%C3%A2m_tim
+content:
+Siêu âm tim là kỹ thuật dùng sóng siêu âm để chụp và nghiên cứu các cấu trúc của tim trong khi tim đang hoạt động (co bóp). Người siêu âm dùng một đầu dò có phát sóng siêu âm di chuyển trên da ngực bệnh nhân. Sóng siêu âm phát ra có thể truyền qua môi trường lỏng và chỉ bị cản lại bởi khối không khí, xương và tổ chức mô của tim. Các tín hiệu âm phản hồi sẽ được đầu dò ghi lại và tạo nên hình ảnh động của tim đang co bóp trên màn hình. Phương pháp này cho phép chụp tim với hình ảnh chính xác.

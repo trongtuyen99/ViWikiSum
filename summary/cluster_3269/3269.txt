@@ -1,0 +1,4 @@
+keyword: Kỹ thuật máy tính
+url: https://vi.wikipedia.org/wiki/K%E1%BB%B9_thu%E1%BA%ADt_m%C3%A1y_t%C3%ADnh
+content:
+Kỹ thuật máy tính là ngành nghiên cứu các nguyên lý, phương pháp để thiết kế và phát triển các hệ thống phần cứng và những phần mềm phục vụ cho hoạt động của các thiết bị phần cứng đó. Kỹ thuật máy tính được nói đến trong nhiều khía cạnh của máy tính, từ thiết kế các mạch điện tử đơn giản đến thiết kế vi xử lý, máy tính cá nhân và kể cả các siêu máy tính. Đặc biệt trong việc thiết kế các hệ thống nhúng dùng trong hầu hết các thiết bị điện-điện tử như điện thoại di động, xe hơi, các bộ điều khiển trong các máy móc, các robot công nghiệp.

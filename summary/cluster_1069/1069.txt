@@ -1,0 +1,4 @@
+keyword: Ủy nhiệm chi
+url: https://vi.wikipedia.org/wiki/%E1%BB%A6y_nhi%E1%BB%87m_chi
+content:
+Ủy nhiệm chi (hoặc lệnh chi) là phương tiện thanh toán mà người trả tiền lập lệnh thanh toán theo mẫu do Ngân hàng quy định, gửi cho ngân hàng nơi mình mở tài khoản yêu cầu trích một số tiền nhất định trên tài khoản của mình để trả cho người thụ hưởng. Ủy nhiệm chi phải do Khách hàng lập, ký và chỉ căn cứ vào lệnh đó để trích tiền từ tài khoản khách hàng chuyển trả cho đơn vị thụ hưởng. Việc Ngân hàng tự động trích tài khoản của khách hàng là không được phép trừ trường hợp đã có thỏa thuận trước bằng văn bản. Ủy nhiệm chi không có nghĩa là ủy nhiệm cho ngân hàng chi hộ, ủy nhiệm chi phải do Khách hàng lập, ký và NH chỉ căn cứ vào lệnh đó để trích tiền từ tài khoản khách hàng chuyển trả cho đơn vị thụ hưởng. Việc NH tự động trích tài khoản của KH là không được phép trừ trường hợp đã có thỏa thuận trước bằng văn bản.

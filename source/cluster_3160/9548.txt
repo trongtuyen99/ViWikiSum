@@ -1,0 +1,4 @@
+keyword: Void (kiểu dữ liệu)
+url: https://latima.vn/wiki-void-kieu-du-lieu-la-gi-chi-tiet-ve-void-kieu-du-lieu-update-2021
+content:
+Sau này, từ khóa void và những cấu trúc ngôn ngữ liên quan đến nó đã được thừa kế bởi các ngôn ngữ Java, C và D. Một hàm có kiểu kết quả void kết thúc hoạt động bằng cách hoặc chạm tới điểm kết thúc của hàm hoặc thực hiện một lệnh trả về mà không có giá trị trả về. Kiểu void có thể cũng xuất hiện như là đối số (argument) duy nhất của một nguyên mẫu hàm (function prototype) nhằm xác định là hàm không có tham số nào cả. Chú ý rằng, mặc dù có tên, nhưng trong tất cả những trường hợp này, kiểu void được dùng làm kiểu unit, chứ không làm số 0 (zero) hay kiểu đáy, thậm chí không giống như một kiểu unit thực sự là kiểu đơn nhất, kiểu void bao gồm một tập hợp rỗng các giá trị, và ngôn ngữ không cung cấp bất cứ cách nào để khai báo một đối tượng hoặc biểu diễn một giá trị với kiểu void.

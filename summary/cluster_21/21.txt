@@ -1,0 +1,4 @@
+keyword: Chữ Nôm
+url: https://vi.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m
+content:
+Chữ Nôm (𡨸喃), còn gọi là Quốc âm (國音) là hệ thống văn tự ngữ tố dùng để viết tiếng Việt (khác với chữ Quốc Ngữ tức chữ Latinh tiếng Việt là bộ chữ tượng thanh). Chữ Nôm được tạo ra dựa trên cơ sở là chữ Hán (chủ yếu là phồn thể), vận dụng phương thức tạo chữ hình thanh, hội ý, giả tá của chữ Hán để tạo ra các chữ mới bổ sung cho việc viết và biểu đạt các từ thuần Việt không có trong bộ chữ Hán ban đầu. Chữ Nôm bắt đầu hình thành và phát triển từ thế kỷ 10 đến thế kỷ 20. Tại giai đoạn này, chữ Nôm là công cụ thuần túy Việt Nam duy nhất ghi chép lịch sử, văn hóa dân tộc. Người Việt sáng tạo ra chữ Nôm và dùng để biểu đạt từ thuần Việt, kết hợp với chữ Hán dùng để biểu đạt từ Hán Việt và tạo nên một bộ chữ viết phổ thông cho tiếng Việt lúc đó. Sơ khởi, chữ Nôm thường dùng ghi chép tên người, địa danh, sau đó được dần dần phổ cập, tiến vào sinh hoạt văn hóa của quốc gia.

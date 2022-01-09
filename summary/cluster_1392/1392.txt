@@ -1,0 +1,4 @@
+keyword: Quản lý chi phí trên cơ sở hoạt động
+url: https://vi.wikipedia.org/wiki/Qu%E1%BA%A3n_l%C3%BD_chi_ph%C3%AD_tr%C3%AAn_c%C6%A1_s%E1%BB%9F_ho%E1%BA%A1t_%C4%91%E1%BB%99ng
+content:
+Quản lý chi phí trên cơ sở hoạt động (tiếng Anh: Activity-Based Costing Management, viết tắt: ABC; thuật ngữ khác là Activities Base Management - ABM) được phát triển để cung cấp thông tin chi phí chính xác hơn về các quy trình và hoạt động kinh doanh, về sản phẩm, dịch vụ và khách hàng mà các quy trình này phục vụ. Những hệ thống ABC tập trung vào các hoạt động tổ chức và xem nó như yếu tố cơ bản để phân tích hành vi của chi phí trong các tổ chức. Những nhà kế toán quản trị không còn phải lo lắng về việc phải phân bổ chi phí như thế nào (đây là lĩnh vực truyền thống của hạch toán chi phí) cho các mục tiêu của hoạt động báo cáo tài chính. Ngày nay họ gắn chi tiêu về các nguồn lực của tổ chức với các hoạt động và quy trình kinh doanh được thực hiện bởi các nguồn lực đó.

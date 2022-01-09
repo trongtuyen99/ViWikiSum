@@ -1,0 +1,4 @@
+keyword: Nhận dạng chữ viết tay
+url: https://vi.wikipedia.org/wiki/Nh%E1%BA%ADn_d%E1%BA%A1ng_ch%E1%BB%AF_vi%E1%BA%BFt_tay
+content:
+Nhận dạng chữ viết tay (Handwriting recognition - HWR), còn được gọi là Nhận dạng văn bản viết tay (Handwriten Text Recognition - HTR), là khả năng máy tính nhận và giải thích dữ liệu chữ viết tay dễ hiểu từ các nguồn như tài liệu giấy, ảnh, màn hình cảm ứng và các thiết bị khác. Hình ảnh của văn bản viết có thể được cảm nhận "tắt dòng" từ một mảnh giấy bằng cách quét quang học (nhận dạng ký tự quang học) hoặc nhận dạng từ thông minh. Ngoài ra, các chuyển động của đầu bút có thể được cảm nhận "trên đường", ví dụ như bề mặt màn hình máy tính dựa trên bút, một công việc thường dễ dàng hơn vì có nhiều manh mối hơn. Một hệ thống nhận dạng chữ viết xử lý định dạng, thực hiện phân đoạn chính xác thành các ký tự và tìm các từ hợp lý nhất.

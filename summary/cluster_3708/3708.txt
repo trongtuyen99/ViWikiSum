@@ -1,0 +1,4 @@
+keyword: Hiệu ứng Hawthorne
+url: https://vi.wikipedia.org/wiki/Hi%E1%BB%87u_%E1%BB%A9ng_Hawthorne
+content:
+Hiệu ứng Hawthorne (Hawthorne effect) là một thuật ngữ chỉ khuynh hướng của một số người làm việc chăm chỉ hơn và đạt hiệu suất tốt hơn khi họ là thành viên của một thí nghiệm. Thuật ngữ này được sử dụng khi nói về những người có thể thay đổi hành vi của bản thân vì sự chú ý họ nhận được từ các nghiên cứu viên chứ không phải do bởi sự tác động thực sự của các biến độc lập trong nghiên cứu. Hiệu ứng Hawthorne đã được thảo luận nhiều trong các sách giáo khoa tâm lý, đặc biệt là những sách thuộc ngành tâm lý học nghề nghiệp – tổ chức. Hiệu ứng Hawthorne đề cập đến xu hướng ở một số cá nhân thay đổi hành vi của họ để đáp ứng với nhận thức của họ về việc được quan sát. Hiện tượng này ngụ ý rằng khi mọi người nhận thức được rằng họ là đối tượng trong một thí nghiệm, thì sự chú ý mà họ nhận được từ những người làm thí nghiệm có thể khiến họ thay đổi hành vi của mình.

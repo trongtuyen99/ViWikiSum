@@ -1,0 +1,4 @@
+keyword: Mất kiểm soát phạm vi dự án
+url: https://vi.wikipedia.org/wiki/M%E1%BA%A5t_ki%E1%BB%83m_so%C3%A1t_ph%E1%BA%A1m_vi_d%E1%BB%B1_%C3%A1n
+content:
+Mất kiểm soát phạm vi dự án trong quản lý dự án được hiểu là sự mất kiểm soát về sự thay đổi hoặc sự tiếp tục phát triển về quy mô dự án. Hiện tượng này xảy ra khi phạm vi dự án không được xác định, định nghĩa và kiểm soát rõ ràng. Việc này thường có khuynh hướng dẫn tới xảy ra các tiêu cực vì vậy cần phải tránh. Nếu ngân sách và lịch trình tăng theo cùng với phạm vi dự án, sự thay đổi này thường được xem là sự mở rộng có thể chấp nhận được với dự án, khi đó thuật ngữ mất kiểm soát phạm vi dự án không được dùng.

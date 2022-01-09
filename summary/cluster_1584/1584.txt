@@ -1,0 +1,4 @@
+keyword: Áp lực
+url: https://vi.wikipedia.org/wiki/%C3%81p_l%E1%BB%B1c
+content:
+Áp lực (ký hiệu: vector N hoặc F) là lực ép vuông góc lên một mặt hoặc một diện tích tiếp xúc của đối tượng chịu lực. Áp lực là lực ép tác động trên diện tích bề mặt của một vật theo phương vuông góc với bề mặt tiếp xúc. Lực ép vuông góc với diện tích bề mặt chịu lực. Theo nghĩa chung, cũng như khái niệm lực tổng quát, áp lực là đại lượng véc-tơ. Tuy nhiên vì đã xác định được phương (vuông góc với bề mặt chịu lực) và chiều (hướng vào mặt chịu lực) nên khi nói về áp lực, người ta có thể chỉ nói về độ lớn (cường độ).

@@ -1,0 +1,4 @@
+keyword: Chi phí biên
+url: https://vi.wikipedia.org/wiki/Chi_ph%C3%AD_bi%C3%AAn
+content:
+Chi phí biên là mức thay đổi trong tổng chi phí khi hãng tăng sản lượng thêm một đơn vị. Ở đây, chúng ta giả thiết là trang thiết bị sản xuất của hãng không thay đổi. Chi phí biên chính bằng đạo hàm của tổng chi phí theo sản lượng. Gọi tổng chi phí là TC, sản lượng là Q, còn chi phí biên là MC. Biểu diễn bằng hình vẽ, chi phí biên là đường có dạng hình chữ U. Hãng có thể thực hiện được tối đa hóa lợi nhuận khi làm cho chi phí biên, doanh thu biên và giá thành sản phẩm bằng nhau. Nếu doanh thu biên lớn hơn chi phí biên thì nó sẽ cho phép tăng sản lượng vì điều đó sẽ làm tăng thêm tổng lợi nhuận. Tương tự, nếu doanh thu biên nhỏ hơn chi phí biên thì lợi nhuận có thể tăng lên bằng cách giảm sản lượng.

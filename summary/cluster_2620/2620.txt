@@ -1,0 +1,4 @@
+keyword: Công nghệ môi trường
+url: https://vi.wikipedia.org/wiki/C%C3%B4ng_ngh%E1%BB%87_m%C3%B4i_tr%C6%B0%E1%BB%9Dng
+content:
+Công nghệ môi trường, công nghệ xanh, hoặc công nghệ sạch là sự ứng dụng khoa học môi trường, hóa học xanh, quan trắc môi trường, sử dụng các thiết bị điện tử để theo dõi, mô hình hóa và giữ cho môi trường tự nhiên và các nguồn tài nguyên thiên nhiên ít bị ảnh hưởng do những tác động tiêu cực của con người. Thuật ngữ này cũng được dùng để mô tả công nghệ sản xuất năng lượng bền vững như điện mặt trời, Turbine gió, Bioreactor.v.v. Phát triển bền vững là cốt lõi của Công nghệ môi trường. Công nghệ môi trường còn được dùng để mô tả các thiết bị điện tử chuyên hỗ trợ quản lý bền vững các nguồn tài nguyên. Luật bảo vệ Môi trường Việt Nam, 1994, Điều 2, khoản 8 quy định "Công nghệ sạch là quy trình công nghệ hoặc giải pháp kỹ thuật không gây ô nhiễm môi trường, thải hoặc phát ra ở mức thấp nhất chất gây ô nhiễm môi trường".

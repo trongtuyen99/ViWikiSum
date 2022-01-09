@@ -1,0 +1,4 @@
+keyword: Chất lỏng phi Newton
+url: https://vi.wikipedia.org/wiki/Ch%E1%BA%A5t_l%E1%BB%8Fng_phi_Newton
+content:
+Chất lỏng phi Newton hay chính xác là Chất lưu phi Newton (tên tiếng Anh: Non-Newtonian fluid) là chất lỏng hay chất lưu có độ nhớt không tuân theo định luật Newton. Độ nhớt của các chất lỏng phi Newton như oobleck, kem đánh răng, cao su, silicon không phải là hằng số và có thể thay đổi theo nhiều cách khác nhau, dưới tác động của một hay nhiều yếu tố như lực, thời gian hay nhiệt độ. Khi độ nhớt thay đổi, loại chất lỏng này phản ứng hoàn toàn khác chất lỏng thông thường, có thể từ lỏng hóa rắn, từ rắn hóa lỏng hoặc dầy và xốp lên. Không phải loại hạt nào cũng có thể tạo được hỗn hợp phi Newton, chỉ có thể tạo ra thứ chất lỏng hóa rắn nhờ trộn đều chúng với các hạt có kích thước tối thiểu 1 micron hay 0,0001 cm.

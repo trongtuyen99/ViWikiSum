@@ -1,0 +1,4 @@
+keyword: Số vòng quay tài sản cố định
+url: https://vi.wikipedia.org/wiki/S%E1%BB%91_v%C3%B2ng_quay_t%C3%A0i_s%E1%BA%A3n_c%E1%BB%91_%C4%91%E1%BB%8Bnh
+content:
+Số vòng quay tài sản cố định (Hệ số quay vòng tài sản cố định) là một trong những tỷ số tài chính đánh giá khái quát hiệu quả sử dụng tài sản, ở đây là tài sản cố định, của doanh nghiệp. Thước đo này được tính bằng cách lấy doanh thu của doanh nghiệp đạt được trong một kỳ nào đó chia cho giá trị bình quân tài sản cố định thuần (ròng) của doanh nghiệp trong kỳ đó. Giá trị bình quân này được tính bằng cách lấy giá trị trung bình cộng của giá trị đầu kỳ và giá trị cuối kỳ. Số vòng quay tài sản cố định là nó cho biết 1 đồng giá trị bình quân tài sản cố định thuần tạo ra được bao nhiêu đồng doanh thu trong kỳ. Nếu số vòng quay tài sản cố định lớn, có thể doanh nghiệp hoạt động trong lĩnh vực thâm dụng vốn.

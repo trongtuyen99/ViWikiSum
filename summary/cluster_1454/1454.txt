@@ -1,0 +1,4 @@
+keyword: Hệ tọa độ thiên văn
+url: https://vi.wikipedia.org/wiki/H%E1%BB%87_t%E1%BB%8Da_%C4%91%E1%BB%99_thi%C3%AAn_v%C4%83n
+content:
+Trong thiên văn học, hệ tọa độ thiên văn là một hệ tọa độ mặt cầu dùng để xác định vị trí biểu kiến của thiên thể trên thiên cầu. Trong tọa độ Descartes, một vật thể có ba tọa độ trong không gian ba chiều được xác định trên ba trục x, y và z. Ngược lại hệ tọa độ thiên văn của thiên thể không xác định khoảng cách đến người quan sát mà chỉ xác định các hướng quan sát của nó trên thiên cầu. Có nhiều loại hệ tọa độ thiên văn khác nhau, được phân biệt và được đặt tên theo mặt phẳng tham chiếu (mặt phẳng cơ bản), hay các trục chính của hệ tọa độ. Mặt phẳng tham chiếu cắt thiên cầu tại đường tròn lớn nhất, chia thiên cầu thành hai nửa bằng nhau. Định nghĩa các trục và mặt phẳng trong các hệ tọa độ có thể dùng hệ thống B1950 hay hệ thống J2000 hiện đại hơn.

@@ -1,0 +1,4 @@
+keyword: Hệ thống thích ứng phức tạp
+url: https://sites.google.com/site/xahoihocsociology/cac-khai-niem-ly-thuyet-xa-hoi-hoc/lt/ly-thuyet-he-thong
+content:
+Lý thuyết hệ thống là các nghiên cứu liên ngành của hệ thống nói chung, với mục đích khám phá các mô hình và nguyên tắc có thể được thấy rõ từ việc làm sáng tỏ, và áp dụng cho tất cả các loại hệ thống ở tất cả các cấp làm tổ trong tất cả các lĩnh vực nghiên cứu. Lý thuyết hệ thống hợp lý có thể được coi là một chuyên môn của tư duy hệ thống hoặc là đầu ra mục tiêu của hệ thống khoa học và kỹ thuật hệ thống, với sự nhấn mạnh về tính tổng quát hữu ích trên một phạm vi rộng các hệ thống (so với các mô hình cụ thể của lĩnh vực cá nhân).

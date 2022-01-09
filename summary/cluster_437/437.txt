@@ -1,0 +1,4 @@
+keyword: Màu sắc
+url: https://vi.wikipedia.org/wiki/M%C3%A0u_s%E1%BA%AFc
+content:
+Màu sắc là đặc trưng của nhận thức thị giác được mô tả thông qua các loại màu, với các tên như đỏ, cam, vàng, xanh lá cây, xanh dương hoặc tím. Nhận thức về màu sắc này xuất phát từ sự kích thích của các tế bào cảm quang (đặc biệt là tế bào hình nón trong mắt người và mắt động vật có xương sống khác) bằng bức xạ điện từ (trong phổ nhìn thấy trong trường hợp của con người).Các loại màu và thông số kỹ thuật vật lý của màu được liên kết với các vật thể thông qua các bước sóng của ánh sáng được phản xạ từ chúng và cường độ của chúng. Sự phản xạ này bị chi phối bởi các tính chất vật lý của vật thể như sự hấp thụ ánh sáng, quang phổ phát xạ, .v.v. Bằng cách xác định một không gian màu, màu sắc có thể được xác định bằng số theo tọa độ, mà năm 1931 cũng được đặt tên theo thỏa thuận toàn cầu với các tên màu được quốc tế đồng ý như đã đề cập ở trên (đỏ, cam, v.v.) bởi Ủy ban Chiếu sáng Quốc tế.

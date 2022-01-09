@@ -1,0 +1,4 @@
+keyword: Giá trị sổ sách
+url: https://vi.wikipedia.org/wiki/Gi%C3%A1_tr%E1%BB%8B_s%E1%BB%95_s%C3%A1ch
+content:
+Trong kế toán, giá trị sổ sách là giá trị của một tài sản theo số dư tài khoản của bảng cân đối kế toán. Đối với tài sản, giá trị được dựa trên chi phí ban đầu của tài sản trừ đi mọi khấu hao, khấu hao hoặc chi phí suy giảm so với tài sản. Theo truyền thống, giá trị sổ sách của một công ty là tổng tài sản trừ đi tài sản vô hình và nợ phải trả. Tuy nhiên, trong thực tế, tùy thuộc vào nguồn tính toán, giá trị sổ sách có thể bao gồm thiện chí, tài sản vô hình hoặc cả hai. Giá trị vốn có trong lực lượng lao động của nó, một phần vốn trí tuệ của một công ty, luôn bị bỏ qua. Khi tài sản vô hình và thiện chí được loại trừ rõ ràng, số liệu thường được chỉ định là "giá trị sổ sách hữu hình".Tại Vương quốc Anh, thuật ngữ giá trị tài sản ròng có thể đề cập đến giá trị sổ sách của một công ty.

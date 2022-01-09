@@ -1,0 +1,4 @@
+keyword: Trục số
+url: https://vi.wikipedia.org/wiki/Tr%E1%BB%A5c_s%E1%BB%91
+content:
+Mỗi điểm của trục số được giả định là tương ứng với một số thực và mỗi số thực tương ứng với một điểm trên trục số. Các số nguyên thường được hiển thị dưới dạng những điểm được đánh dấu đặc biệt nằm ngang trên trục số. Mặc dù hình ảnh này chỉ hiển thị các số nguyên từ -9 đến 9, trục số bao gồm tất cả số thực, tiếp tục vĩnh viễn theo cả hai hướng, và cũng có các số không được đánh dấu giữa các số nguyên. Nó thường được sử dụng như một trợ giúp trong việc giảng dạy phép cộng và phép trừ đơn giản, nhất là khi có liên quan đến các số âm. Trong toán học nâng cao, các cách diễn đạt trục số thực thường được sử dụng để chỉ ra khái niệm (đã nói ở trên) rằng mọi điểm trên một đường thẳng tương ứng với một số thực và ngược lại.
