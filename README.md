@@ -11,7 +11,7 @@ Data is collected automatically, with original texts (text used as summary) coll
 - Directory `summary`: Contains 4313 subdirectories, each containing a summary text of the documents in the corresponding cluster.
 
 => This corpus can be used as a standard corpus to serve the process of evaluating results for studies on multi-text summaries in Vietnamese.
-This repo is the prototype of the ViWikiSum dataset we built. The full dataset after collecting 70,000 Wikipedia article links will be updated at [here](LINK_DRIVE)
+This repo is the prototype of the ViWikiSum dataset we built. The full dataset after collecting 500,000 Wikipedia article links (estimated 70,000 multi-docs summarization samples) will be updated at [here](LINK_DRIVE)
 
 --------------
 
@@ -28,4 +28,4 @@ Dữ liệu được thu thập tự động, với các văn bản gốc(văn b
 - Thư mục `summary`: Chứa 4313 thư mục con mỗi thư mục chứa 1 văn bản tóm tắt của các văn bản trong cụm tương ứng.
 
 => Bộ ngữ liệu này có thể được sử dụng như là một nguồn ngữ liệu chuẩn để phục vụ quá trình đánh giá kết quả cho các nghiên cứu về tóm tắt đa văn bản trên Tiếng Việt.
-Repo này là bản prototype của bộ dữ liệu ViWikiSum do chúng tôi xây dựng. Bộ dữ liệu đầy đủ sau khi xử lý thu thập 70,000 đường dẫn bài viết Wikipedia sẽ được cập nhật tại [đây](LINK_DRIVE)
+Repo này là bản prototype của bộ dữ liệu ViWikiSum do chúng tôi xây dựng. Bộ dữ liệu đầy đủ sau khi xử lý thu thập 500,000 đường dẫn bài viết Wikipedia (ước lượng khoảng 70,000 mẫu dữ liệu tóm tắt đa văn bản) sẽ được cập nhật tại [đây](LINK_DRIVE)
